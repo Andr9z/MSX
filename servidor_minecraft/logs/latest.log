@@ -632,3 +632,93 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [26Dec2024 06:25:27.300] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
 [26Dec2024 06:25:27.304] [Craft Scheduler Thread - 0/INFO] [Minecraft/]: [NeoPerformance] NeoPerformance v1.15.5 is out. Download it at: https://www.spigotmc.org/resources/neoperformance.103183/
 [26Dec2024 06:25:27.339] [Craft Scheduler Thread - 4/INFO] [Console/]: [CraftEnhance] There's a new version (2.4.4) of the plugin available on https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files.
+[26Dec2024 07:12:58.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[26Dec2024 07:12:58.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[26Dec2024 07:12:58.121] [Server thread/INFO] [SimplePortals/]: Disabling SimplePortals v1.7.6
+[26Dec2024 07:12:58.123] [Server thread/INFO] [ProtectionStones/]: Disabling ProtectionStones v2.10.5
+[26Dec2024 07:12:58.124] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.59.1
+[26Dec2024 07:12:58.124] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.59.1
+[26Dec2024 07:12:58.124] [Server thread/INFO] [InvSee++_Give/]: Disabling InvSeePlusPlus_Give v0.29.11
+[26Dec2024 07:12:58.125] [Server thread/INFO] [InvSee++_Clear/]: Disabling InvSeePlusPlus_Clear v0.29.11
+[26Dec2024 07:12:58.125] [Server thread/INFO] [MythicMobs/]: Disabling MythicMobs v5.4.1-${CI_COMMIT_SHORT_SHA}
+[26Dec2024 07:12:58.125] [Server thread/INFO] [MythicMobs/]: [35m[1m------------------------------------------------------------[0m[0m
+[26Dec2024 07:12:58.125] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0m[0m
+[26Dec2024 07:12:58.126] [Server thread/INFO] [MythicMobs/]: [35m[1m- [33mUnloading Mythic...[0m[0m
+[26Dec2024 07:12:58.126] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0m[0m
+[26Dec2024 07:12:58.126] [Server thread/INFO] [MythicMobs/]: [35m[1m------------------------------------------------------------[0m[0m
+[26Dec2024 07:12:58.126] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0mSpawners saved and unloaded...[0m[0m
+[26Dec2024 07:12:58.126] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0mMobs saved and unloaded...[0m[0m
+[26Dec2024 07:12:58.129] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0mVariables saved...[0m[0m
+[26Dec2024 07:12:58.130] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0mAll active settings have been saved![0m[0m
+[26Dec2024 07:12:58.130] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0mMythic has been unloaded![0m[0m
+[26Dec2024 07:12:58.130] [Server thread/INFO] [MythicMobs/]: [35m[1m------------------------------------------------------------[0m[0m
+[26Dec2024 07:12:58.145] [Server thread/INFO] [Shopkeepers/]: Disabling Shopkeepers v2.20.1
+[26Dec2024 07:12:58.154] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.1
+[26Dec2024 07:12:58.156] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.1-b861
+[26Dec2024 07:12:58.160] [Server thread/INFO] [WorldGuard/]: Disabling WorldGuard v7.0.9+5934e49
+[26Dec2024 07:12:58.160] [Server thread/INFO] [InvSee++/]: Disabling InvSeePlusPlus v0.29.11
+[26Dec2024 07:12:58.161] [Server thread/INFO] [ClearLag/]: Disabling ClearLag v3.2.2
+[26Dec2024 07:12:58.161] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now disabled!
+[26Dec2024 07:12:58.162] [Server thread/INFO] [CraftEnhance/]: Disabling CraftEnhance v2.5.9
+[26Dec2024 07:12:58.549] [Worker-Main-38/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dedsafio3:llave_crafteo
+com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipeMixin.java:295) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(IngredientMixin.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.IngredientMixin,pl:mixin:A}
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.2.20-universal.jar%23214!/:?] {re:classloading}
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.2.20-universal.jar%23214!/:?] {re:classloading,re:mixin}
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(IngredientMixin.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.IngredientMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipeMixin.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.2.20-universal.jar%23214!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManagerMixin.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.RecipeManagerMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManagerMixin.java:571) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.RecipeManagerMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManagerMixin.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.RecipeManagerMixin,pl:mixin:A}
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:computing_frames,re:classloading}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?] {re:mixin}
+	at java.util.concurrent.CompletableFuture.postFire(CompletableFuture.java:614) ~[?:?] {re:mixin}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:726) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.execute(BlockableEventLoop.java:102) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_10834_(SimpleReloadInstance.java:68) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at java.util.concurrent.CompletableFuture$UniCompletion.claim(CompletableFuture.java:572) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:714) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510) ~[?:?] {re:mixin}
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1810) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796) ~[?:?] {}
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:373) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1182) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) ~[?:?] {}
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) ~[?:?] {}
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) ~[?:?] {}
+[26Dec2024 07:12:58.554] [Worker-Main-38/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[26Dec2024 07:12:58.584] [Worker-Main-38/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1315 advancements
+[26Dec2024 07:12:58.587] [Worker-Main-38/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[26Dec2024 07:12:58.589] [Worker-Main-38/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[26Dec2024 07:12:59.252] [Server thread/INFO] [PlaceholderAPI/]: Disabling PlaceholderAPI v2.11.6
+[26Dec2024 07:12:59.253] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.2.20+6667-f0f1e66
+[26Dec2024 07:12:59.263] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[26Dec2024 07:12:59.264] [Server thread/INFO] [SimpleTimer/]: Disabling SimpleTimer v1.5.2
+[26Dec2024 07:12:59.264] [Server thread/INFO] [Console/]: [SimpleTimer] Successfully Disabled
+[26Dec2024 07:12:59.265] [Server thread/INFO] [Console/]: [SimpleTimer] Xhasi » Good Bye
+[26Dec2024 07:12:59.265] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.131
+[26Dec2024 07:12:59.265] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[26Dec2024 07:12:59.271] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[26Dec2024 07:12:59.292] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[26Dec2024 07:12:59.292] [Server thread/INFO] [NeoPerformance/]: Disabling NeoPerformance v1.15.4
+[26Dec2024 07:12:59.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[26Dec2024 07:12:59.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[26Dec2024 07:13:00.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]'/minecraft:overworld
+[26Dec2024 07:13:00.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/voltymod/minigames_2]'/voltymod:minigames_2
+[26Dec2024 07:13:00.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/DIM-1]'/minecraft:the_nether
+[26Dec2024 07:13:00.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[DEDSAFIO 3 - By TheNeitorLoL/DIM1]'/minecraft:the_end
+[26Dec2024 07:13:00.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[limbo]'/minecraft:limbo
+[26Dec2024 07:13:05.941] [Exit Thread/INFO] [Arclight/]: 7 threads not shutting down correctly, force exiting
