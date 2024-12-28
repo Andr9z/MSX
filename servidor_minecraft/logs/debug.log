@@ -6122,3 +6122,12 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Dec2024 19:09:44.288] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
 [28Dec2024 19:09:44.289] [Server thread/INFO] [Console/]: 1 placeholder hook(s) registered!
 [28Dec2024 19:09:44.330] [Craft Scheduler Thread - 11/INFO] [Console/]: [CraftEnhance] There's a new version (2.4.4) of the plugin available on https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files.
+[28Dec2024 19:12:22.511] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[28Dec2024 19:12:22.516] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[28Dec2024 19:12:22.538] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[28Dec2024 19:12:22.543] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[28Dec2024 19:14:35.887] [OkHttp metadata.luckperms.net/DEBUG] [me.lucko.luckperms.lib.okhttp3.internal.http2.Http2/]: >> 0x00000000     8 GOAWAY        
+[28Dec2024 19:17:22.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[28Dec2024 19:17:22.480] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[28Dec2024 19:17:22.500] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[28Dec2024 19:17:22.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
