@@ -982,3 +982,88 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Dec2024 19:53:18.223] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dropped_by_Parca (18)
 [28Dec2024 19:53:18.225] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dropped_by_Parca
 [28Dec2024 19:53:18.250] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2156ms or 43 ticks behind
+[28Dec2024 19:53:23.212] [User Authenticator #8/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player pocoquesoMB is 93210d55-8680-3f37-98e0-3f6fc07fd209
+[28Dec2024 19:53:24.655] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pocoquesoMB[/127.196.173.212:53821] logged in with entity id 439 at (-1850.6071899473834, 78.5, 180.78402284271675)
+[28Dec2024 19:53:24.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pocoquesoMB joined the game
+[28Dec2024 19:53:25.691] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pocoquesoMB (18)
+[28Dec2024 19:53:25.691] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pocoquesoMB
+[28Dec2024 19:53:27.037] [Async Chat Thread - #1/INFO] [Console/]: <Dropped_by_Parca> e
+[28Dec2024 19:53:27.916] [Async Chat Thread - #0/INFO] [Console/]: <Dropped_by_Parca> xd
+[28Dec2024 19:53:35.264] [Async Chat Thread - #0/INFO] [Console/]: <pocoquesoMB> mis kosas
+[28Dec2024 19:53:36.045] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[28Dec2024 19:54:21.295] [Async Chat Thread - #1/INFO] [Console/]: <Dropped_by_Parca> hermano
+[28Dec2024 19:54:32.048] [Async Chat Thread - #1/INFO] [Console/]: <Dropped_by_Parca> ando full iron
+[28Dec2024 19:54:34.015] [Async Chat Thread - #0/INFO] [Console/]: <Dropped_by_Parca> xd
+[28Dec2024 19:54:43.862] [Async Chat Thread - #1/INFO] [Console/]: <pocoquesoMB> yo no tengo casa xd
+[28Dec2024 19:55:16.055] [Server thread/INFO] [Console/]: Unknown command. Type "/help" for help.
+[28Dec2024 19:55:20.964] [Async Chat Thread - #1/INFO] [Console/]: <Dropped_by_Parca> xd
+[28Dec2024 19:55:27.903] [Async Chat Thread - #1/INFO] [Console/]: <Dropped_by_Parca> yo tampoco
+[28Dec2024 19:55:33.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to Dropped_by_Parca: Querian el server ahi lo tienen
+[28Dec2024 19:55:33.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: You whisper to pocoquesoMB: Querian el server ahi lo tienen
+[28Dec2024 19:55:37.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Dropped_by_Parca ha consumido un tótem!
+[28Dec2024 19:55:45.266] [Async Chat Thread - #2/INFO] [Console/]: <Dropped_by_Parca> xd
+[28Dec2024 19:55:45.632] [Async Chat Thread - #1/INFO] [Console/]: <pocoquesoMB> quiero mis cosas
+[28Dec2024 19:55:47.319] [Async Chat Thread - #2/INFO] [Console/]: <pocoquesoMB> :v
+[28Dec2024 19:55:50.736] [Async Chat Thread - #2/INFO] [Console/]: <Dropped_by_Parca> yo tambien
+[28Dec2024 19:55:56.202] [Async Chat Thread - #1/INFO] [Console/]: <Dropped_by_Parca> aparte hay 148145124 ranas
+[28Dec2024 19:56:27.660] [Server thread/INFO] [Console/]: [Mythic] Invalid location specified for spawning a mob: world does not exist.
+[28Dec2024 19:56:40.954] [Server thread/INFO] [Console/]: Removed 0 Mythic Mobs!
+[28Dec2024 19:57:31.906] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> podes dormir?
+[28Dec2024 19:57:59.090] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player luchooos is 44c0f692-2bdc-313b-a961-084931d30571
+[28Dec2024 19:58:00.812] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@5ff49f72[id=44c0f692-2bdc-313b-a961-084931d30571,name=luchooos,properties={},legacy=false] (/127.70.195.151:59451): You are banned from this server.
+[28Dec2024 19:58:00.813] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ff49f72[id=44c0f692-2bdc-313b-a961-084931d30571,name=luchooos,properties={},legacy=false] (/127.70.195.151:59451) lost connection: You are banned from this server.
+[28Dec2024 19:58:00.856] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 19:58:05.070] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player luchooos is 44c0f692-2bdc-313b-a961-084931d30571
+[28Dec2024 19:58:06.802] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@8e47d98[id=44c0f692-2bdc-313b-a961-084931d30571,name=luchooos,properties={},legacy=false] (/127.70.195.151:52247): You are banned from this server.
+[28Dec2024 19:58:06.802] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8e47d98[id=44c0f692-2bdc-313b-a961-084931d30571,name=luchooos,properties={},legacy=false] (/127.70.195.151:52247) lost connection: You are banned from this server.
+[28Dec2024 19:58:06.851] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 19:58:06.983] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> pocoquesoMB?
+[28Dec2024 19:58:24.419] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> gracia
+[28Dec2024 19:59:01.228] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player luchooos is 44c0f692-2bdc-313b-a961-084931d30571
+[28Dec2024 19:59:02.752] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@7427598f[id=44c0f692-2bdc-313b-a961-084931d30571,name=luchooos,properties={},legacy=false] (/127.70.195.151:46449): You are banned from this server.
+[28Dec2024 19:59:02.752] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7427598f[id=44c0f692-2bdc-313b-a961-084931d30571,name=luchooos,properties={},legacy=false] (/127.70.195.151:46449) lost connection: You are banned from this server.
+[28Dec2024 19:59:02.804] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 19:59:12.472] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> hay q esperar a roberto
+[28Dec2024 19:59:58.496] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> veni a la montaña
+[28Dec2024 20:01:14.049] [Async Chat Thread - #7/INFO] [Console/]: <Dropped_by_Parca> no hay casino
+[28Dec2024 20:01:38.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 8 [DEDita] to Dropped_by_Parca
+[28Dec2024 20:01:38.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player Dropped_by_Parca
+[28Dec2024 20:01:51.425] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-599.6126463413239, 143.0, -286.2944819331169) too far away from hit block BlockPos{x=-600, y=141, z=-287}.
+[28Dec2024 20:01:51.456] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-599.6126463413239, 143.0, -286.2944819331169) too far away from hit block BlockPos{x=-600, y=141, z=-287}.
+[28Dec2024 20:01:52.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-599.5474199950695, 143.0, -286.57488587498665) too far away from hit block BlockPos{x=-600, y=141, z=-287}.
+[28Dec2024 20:01:52.673] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-599.5474199950695, 143.0, -286.57488587498665) too far away from hit block BlockPos{x=-600, y=141, z=-287}.
+[28Dec2024 20:01:53.571] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-599.5602442622185, 143.0, -286.5598973631859) too far away from hit block BlockPos{x=-600, y=141, z=-287}.
+[28Dec2024 20:01:53.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-599.5602442622185, 143.0, -286.5598973631859) too far away from hit block BlockPos{x=-600, y=141, z=-287}.
+[28Dec2024 20:01:58.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-599.5524897277355, 143.0, -286.5780352950096) too far away from hit block BlockPos{x=-600, y=141, z=-287}.
+[28Dec2024 20:01:58.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-599.5524897277355, 143.0, -286.5780352950096) too far away from hit block BlockPos{x=-600, y=141, z=-287}.
+[28Dec2024 20:01:58.823] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-599.5190133154392, 143.0, -286.63851550221443) too far away from hit block BlockPos{x=-600, y=141, z=-287}.
+[28Dec2024 20:01:58.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-599.5190133154392, 143.0, -286.63851550221443) too far away from hit block BlockPos{x=-600, y=141, z=-287}.
+[28Dec2024 20:01:59.820] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player luchooos is 44c0f692-2bdc-313b-a961-084931d30571
+[28Dec2024 20:02:01.504] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@6f3d50d1[id=44c0f692-2bdc-313b-a961-084931d30571,name=luchooos,properties={},legacy=false] (/127.70.195.151:46359): You are banned from this server.
+[28Dec2024 20:02:01.504] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f3d50d1[id=44c0f692-2bdc-313b-a961-084931d30571,name=luchooos,properties={},legacy=false] (/127.70.195.151:46359) lost connection: You are banned from this server.
+[28Dec2024 20:02:01.557] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[28Dec2024 20:02:14.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unbanned luchooos
+[28Dec2024 20:02:31.052] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player luchooos is 44c0f692-2bdc-313b-a961-084931d30571
+[28Dec2024 20:02:32.613] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luchooos[/127.70.195.151:60735] logged in with entity id 3685 at (-532.1979767298055, 203.10000610351562, -243.91078322070138)
+[28Dec2024 20:02:32.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos joined the game
+[28Dec2024 20:02:35.452] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luchooos (18)
+[28Dec2024 20:02:35.453] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luchooos
+[28Dec2024 20:02:41.084] [Async Chat Thread - #9/INFO] [Console/]: <Dropped_by_Parca> luchooos
+[28Dec2024 20:02:43.798] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> ando en montaña
+[28Dec2024 20:02:45.923] [Async Chat Thread - #9/INFO] [Console/]: <Dropped_by_Parca> pero cuidado
+[28Dec2024 20:02:51.032] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> popie un totem viniendo
+[28Dec2024 20:03:00.351] [Async Chat Thread - #9/INFO] [Console/]: <luchooos> yo ando en spect
+[28Dec2024 20:03:12.182] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> eh
+[28Dec2024 20:03:12.885] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> xd
+[28Dec2024 20:03:17.316] [Async Chat Thread - #9/INFO] [Console/]: <Dropped_by_Parca> consola?
+[28Dec2024 20:03:19.271] [Async Chat Thread - #9/INFO] [Console/]: <Dropped_by_Parca> server
+[28Dec2024 20:03:20.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported luchooos to Dropped_by_Parca
+[28Dec2024 20:03:25.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Set luchooos's game mode to Survival Mode
+[28Dec2024 20:03:28.507] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> a
+[28Dec2024 20:03:29.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported luchooos to Dropped_by_Parca
+[28Dec2024 20:03:29.293] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> xd
+[28Dec2024 20:03:33.203] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: pocoquesoMB lost connection: Disconnected
+[28Dec2024 20:03:33.205] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client pocoquesoMB
+[28Dec2024 20:03:33.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pocoquesoMB left the game
+[28Dec2024 20:03:36.254] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> y tus cosas
+[28Dec2024 20:03:43.403] [Async Chat Thread - #8/INFO] [Console/]: <luchooos> esq habia muerto x bug xd
