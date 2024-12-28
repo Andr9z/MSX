@@ -624,3 +624,347 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [28Dec2024 18:52:09.877] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
 [28Dec2024 18:52:09.877] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
 [28Dec2024 18:52:09.883] [Craft Scheduler Thread - 4/INFO] [Console/]: [CraftEnhance] There's a new version (2.4.4) of the plugin available on https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files.
+[28Dec2024 19:09:31.359] [Server thread/INFO] [Console/]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[28Dec2024 19:09:31.359] [Server thread/INFO] [Console/]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[28Dec2024 19:09:31.361] [Server thread/INFO] [SimplePortals/]: Disabling SimplePortals v1.7.6
+[28Dec2024 19:09:31.363] [Server thread/INFO] [ProtectionStones/]: Disabling ProtectionStones v2.10.5
+[28Dec2024 19:09:31.364] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.59.1
+[28Dec2024 19:09:31.364] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.59.1
+[28Dec2024 19:09:31.364] [Server thread/INFO] [InvSee++_Give/]: Disabling InvSeePlusPlus_Give v0.29.11
+[28Dec2024 19:09:31.365] [Server thread/INFO] [InvSee++_Clear/]: Disabling InvSeePlusPlus_Clear v0.29.11
+[28Dec2024 19:09:31.366] [Server thread/INFO] [MythicMobs/]: Disabling MythicMobs v5.4.1-${CI_COMMIT_SHORT_SHA}
+[28Dec2024 19:09:31.366] [Server thread/INFO] [MythicMobs/]: [35m[1m------------------------------------------------------------[0m[0m
+[28Dec2024 19:09:31.366] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0m[0m
+[28Dec2024 19:09:31.366] [Server thread/INFO] [MythicMobs/]: [35m[1m- [33mUnloading Mythic...[0m[0m
+[28Dec2024 19:09:31.366] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0m[0m
+[28Dec2024 19:09:31.366] [Server thread/INFO] [MythicMobs/]: [35m[1m------------------------------------------------------------[0m[0m
+[28Dec2024 19:09:31.366] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0mSpawners saved and unloaded...[0m[0m
+[28Dec2024 19:09:31.366] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0mMobs saved and unloaded...[0m[0m
+[28Dec2024 19:09:31.371] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0mVariables saved...[0m[0m
+[28Dec2024 19:09:31.371] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0mAll active settings have been saved![0m[0m
+[28Dec2024 19:09:31.371] [Server thread/INFO] [MythicMobs/]: [35m[1m- [0mMythic has been unloaded![0m[0m
+[28Dec2024 19:09:31.371] [Server thread/INFO] [MythicMobs/]: [35m[1m------------------------------------------------------------[0m[0m
+[28Dec2024 19:09:31.385] [Server thread/INFO] [Shopkeepers/]: Disabling Shopkeepers v2.20.1
+[28Dec2024 19:09:31.395] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.1
+[28Dec2024 19:09:31.397] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.1-b861
+[28Dec2024 19:09:31.400] [Server thread/INFO] [WorldGuard/]: Disabling WorldGuard v7.0.9+5934e49
+[28Dec2024 19:09:31.401] [Server thread/INFO] [InvSee++/]: Disabling InvSeePlusPlus v0.29.11
+[28Dec2024 19:09:31.402] [Server thread/INFO] [ClearLag/]: Disabling ClearLag v3.2.2
+[28Dec2024 19:09:31.402] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now disabled!
+[28Dec2024 19:09:31.403] [Server thread/INFO] [CraftEnhance/]: Disabling CraftEnhance v2.5.9
+[28Dec2024 19:09:31.816] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dedsafio3:llave_crafteo
+com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipeMixin.java:295) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(IngredientMixin.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.IngredientMixin,pl:mixin:A}
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.2.20-universal.jar%23214!/:?] {re:classloading}
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.2.20-universal.jar%23214!/:?] {re:classloading,re:mixin}
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(IngredientMixin.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.IngredientMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipeMixin.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.2.20-universal.jar%23214!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManagerMixin.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.RecipeManagerMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManagerMixin.java:571) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.RecipeManagerMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManagerMixin.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.RecipeManagerMixin,pl:mixin:A}
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:computing_frames,re:classloading}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:computing_frames,re:classloading,re:mixin}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129861_(MinecraftServerMixin.java:1345) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.commands.ReloadCommand.reload(ReloadCommandMixin.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:server.commands.ReloadCommandMixin,pl:mixin:A}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reloadData(CraftServerMixin.java:974) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.resetRecipes(CraftServerMixin.java:1434) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at com.dutchjelly.craftenhance.CraftEnhance.onDisable(CraftEnhance.java:137) ~[?:?] {}
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPluginMixin.java:268) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:JavaPluginMixin,pl:mixin:A}
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoaderMixin.java:367) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:JavaPluginLoaderMixin,pl:mixin:A}
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.plugin.SimplePluginManager.clearPlugins(SimplePluginManager.java:544) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reload(CraftServerMixin.java:2659) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.Bukkit.reload(Bukkit.java:833) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServerMixin.java:877) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchServerCommand(CraftServerMixin.java:862) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at net.minecraft.server.dedicated.DedicatedServer.redirect$zli000$arclight$serverCommandEvent(DedicatedServerMixin.java:659) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_139665_(DedicatedServerMixin.java:298) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:284) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+[28Dec2024 19:09:31.820] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[28Dec2024 19:09:31.849] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1315 advancements
+[28Dec2024 19:09:31.852] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[28Dec2024 19:09:31.854] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[28Dec2024 19:09:32.463] [Server thread/INFO] [PlaceholderAPI/]: Disabling PlaceholderAPI v2.11.6
+[28Dec2024 19:09:32.464] [Server thread/INFO] [WorldEdit/]: Disabling WorldEdit v7.2.20+6667-f0f1e66
+[28Dec2024 19:09:32.477] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[28Dec2024 19:09:32.478] [Server thread/INFO] [SimpleTimer/]: Disabling SimpleTimer v1.5.2
+[28Dec2024 19:09:32.478] [Server thread/INFO] [Console/]: [SimpleTimer] Successfully Disabled
+[28Dec2024 19:09:32.478] [Server thread/INFO] [Console/]: [SimpleTimer] Xhasi » Good Bye
+[28Dec2024 19:09:32.478] [Server thread/INFO] [LuckPerms/]: Disabling LuckPerms v5.4.131
+[28Dec2024 19:09:32.478] [Server thread/INFO] [LuckPerms/]: Starting shutdown process...
+[28Dec2024 19:09:32.485] [Server thread/INFO] [LuckPerms/]: Closing storage...
+[28Dec2024 19:09:32.508] [Server thread/INFO] [LuckPerms/]: Goodbye!
+[28Dec2024 19:09:32.508] [Server thread/INFO] [NeoPerformance/]: Disabling NeoPerformance v1.15.4
+[28Dec2024 19:09:32.887] [Server thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe dedsafio3:llave_crafteo
+com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_151278_(ShapedRecipeMixin.java:295) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.Ingredient.m_43919_(IngredientMixin.java:219) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.IngredientMixin,pl:mixin:A}
+	at net.minecraftforge.common.crafting.VanillaIngredientSerializer.parse(VanillaIngredientSerializer.java:27) ~[forge-1.20.1-47.2.20-universal.jar%23214!/:?] {re:classloading}
+	at net.minecraftforge.common.crafting.CraftingHelper.getIngredient(CraftingHelper.java:148) ~[forge-1.20.1-47.2.20-universal.jar%23214!/:?] {re:classloading,re:mixin}
+	at net.minecraft.world.item.crafting.Ingredient.m_288218_(IngredientMixin.java:194) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.IngredientMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.ShapedRecipe.m_44210_(ShapedRecipeMixin.java:278) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.ShapedRecipeMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:306) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.ShapedRecipe$Serializer.m_6729_(ShapedRecipe.java:301) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraftforge.common.extensions.IForgeRecipeSerializer.fromJson(IForgeRecipeSerializer.java:23) ~[forge-1.20.1-47.2.20-universal.jar%23214!/:?] {re:classloading}
+	at net.minecraft.world.item.crafting.RecipeManager.fromJson(RecipeManagerMixin.java:171) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.RecipeManagerMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManagerMixin.java:571) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.RecipeManagerMixin,pl:mixin:A}
+	at net.minecraft.world.item.crafting.RecipeManager.m_5787_(RecipeManagerMixin.java:34) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:world.item.crafting.RecipeManagerMixin,pl:mixin:A}
+	at net.minecraft.server.packs.resources.SimplePreparableReloadListener.m_10789_(SimplePreparableReloadListener.java:13) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:computing_frames,re:classloading}
+	at java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:718) ~[?:?] {}
+	at java.util.concurrent.CompletableFuture$Completion.run(CompletableFuture.java:482) ~[?:?] {}
+	at net.minecraft.server.packs.resources.SimpleReloadInstance.m_143940_(SimpleReloadInstance.java:69) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:classloading}
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:computing_frames,re:classloading,re:mixin}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_129861_(MinecraftServerMixin.java:1345) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.commands.ReloadCommand.reload(ReloadCommandMixin.java:524) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.core.json:server.commands.ReloadCommandMixin,pl:mixin:A}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reloadData(CraftServerMixin.java:974) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.reload(CraftServerMixin.java:2661) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.Bukkit.reload(Bukkit.java:833) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading}
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:27) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:classloading}
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchCommand(CraftServerMixin.java:877) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at org.bukkit.craftbukkit.v1_20_R1.CraftServer.dispatchServerCommand(CraftServerMixin.java:862) ~[arclight-1.20.1-1.0.5-1a8925b.jar%23185!/:arclight-1.20.1-1.0.5-1a8925b] {re:mixin,re:classloading,pl:mixin:APP:mixins.arclight.bukkit.json:CraftServerMixin,pl:mixin:A,re:mixin}
+	at net.minecraft.server.dedicated.DedicatedServer.redirect$zli000$arclight$serverCommandEvent(DedicatedServerMixin.java:659) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_139665_(DedicatedServerMixin.java:298) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServerMixin.java:284) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.dedicated.DedicatedServerMixin,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServerMixin.java:814) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2070) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23209!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:mixins.arclight.core.json:server.MinecraftServerMixin,pl:mixin:A,re:mixin,pl:accesstransformer:B}
+	at java.lang.Thread.run(Thread.java:840) ~[?:?] {re:mixin,re:mixin}
+[28Dec2024 19:09:32.891] [Server thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 9 recipes
+[28Dec2024 19:09:32.926] [Server thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1315 advancements
+[28Dec2024 19:09:32.928] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 11 curio slots
+[28Dec2024 19:09:32.929] [Server thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
+[28Dec2024 19:09:33.832] [Server thread/INFO] [NeoPerformance/]: Loading NeoPerformance v1.15.4
+[28Dec2024 19:09:33.832] [Server thread/INFO] [LuckPerms/]: Loading LuckPerms v5.4.131
+[28Dec2024 19:09:34.029] [Server thread/INFO] [SimpleTimer/]: Loading SimpleTimer v1.5.2
+[28Dec2024 19:09:34.029] [Server thread/INFO] [WorldEdit/]: Loading WorldEdit v7.2.20+6667-f0f1e66
+[28Dec2024 19:09:34.367] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@1b4b3234]
+[28Dec2024 19:09:34.370] [Server thread/INFO] [PlaceholderAPI/]: Loading PlaceholderAPI v2.11.6
+[28Dec2024 19:09:34.371] [Server thread/INFO] [CraftEnhance/]: Loading CraftEnhance v2.5.9
+[28Dec2024 19:09:34.371] [Server thread/INFO] [ClearLag/]: Loading ClearLag v3.2.2
+[28Dec2024 19:09:34.371] [Server thread/INFO] [InvSee++/]: Loading InvSeePlusPlus v0.29.11
+[28Dec2024 19:09:34.371] [Server thread/INFO] [WorldGuard/]: Loading WorldGuard v7.0.9+5934e49
+[28Dec2024 19:09:34.371] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.1-b861
+[28Dec2024 19:09:34.390] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.5.1
+[28Dec2024 19:09:34.390] [Server thread/INFO] [Shopkeepers/]: Loading Shopkeepers v2.20.1
+[28Dec2024 19:09:34.618] [Server thread/INFO] [Shopkeepers/]: Loaded all plugin classes (227 ms).
+[28Dec2024 19:09:34.620] [Server thread/INFO] [Shopkeepers/]: Loading config.
+[28Dec2024 19:09:34.627] [Server thread/WARN] [Shopkeepers/]: Config: Invalid living entity type name in 'enabled-living-shops': ARMADILLO
+[28Dec2024 19:09:34.627] [Server thread/WARN] [Shopkeepers/]: Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[28Dec2024 19:09:34.628] [Server thread/INFO] [Shopkeepers/]: Loading language file: language-en-default.yml
+[28Dec2024 19:09:34.642] [Server thread/WARN] [Shopkeepers/]: Config: Invalid living entity type name in 'enabled-living-shops': ARMADILLO
+[28Dec2024 19:09:34.642] [Server thread/WARN] [Shopkeepers/]: Config: All existing entity type names can be found here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/entity/EntityType.html
+[28Dec2024 19:09:34.645] [Server thread/INFO] [Shopkeepers/]: Registering WorldGuard flag 'allow-shop'.
+[28Dec2024 19:09:34.658] [Server thread/INFO] [Shopkeepers/]: Registering defaults.
+[28Dec2024 19:09:34.659] [Server thread/INFO] [MythicMobs/]: Loading MythicMobs v5.4.1-${CI_COMMIT_SHORT_SHA}
+[28Dec2024 19:09:34.659] [Server thread/INFO] [Minecraft/]: [LumineUtils] (io.lumine.mythic.bukkit.utils.) is bound to plugin MythicMobs - io.lumine.mythic.bukkit.MythicBukkit
+[28Dec2024 19:09:34.728] [Server thread/INFO] [MythicMobs/]: Mythic Enabled![0m
+[28Dec2024 19:09:34.729] [Server thread/INFO] [InvSee++_Clear/]: Loading InvSeePlusPlus_Clear v0.29.11
+[28Dec2024 19:09:34.729] [Server thread/INFO] [InvSee++_Give/]: Loading InvSeePlusPlus_Give v0.29.11
+[28Dec2024 19:09:34.729] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.59.1
+[28Dec2024 19:09:34.729] [Server thread/INFO] [ProtectionStones/]: Loading ProtectionStones v2.10.5
+[28Dec2024 19:09:34.736] [Server thread/INFO] [SimplePortals/]: Loading SimplePortals v1.7.6
+[28Dec2024 19:09:34.738] [Server thread/INFO] [LuckPerms/]: Enabling LuckPerms v5.4.131
+[28Dec2024 19:09:35.339] [Server thread/INFO] [Console/]:         __    
+[28Dec2024 19:09:35.340] [Server thread/INFO] [Console/]:   |    |__)   LuckPerms v5.4.131
+[28Dec2024 19:09:35.340] [Server thread/INFO] [Console/]:   |___ |      Running on Bukkit - Arclight
+[28Dec2024 19:09:35.340] [Server thread/INFO] [Console/]: 
+[28Dec2024 19:09:35.343] [Server thread/INFO] [LuckPerms/]: Loading configuration...
+[28Dec2024 19:09:35.599] [Server thread/INFO] [LuckPerms/]: Loading storage provider... [H2]
+[28Dec2024 19:09:36.832] [Server thread/INFO] [LuckPerms/]: Loading internal permission managers...
+[28Dec2024 19:09:36.967] [Server thread/INFO] [LuckPerms/]: Performing initial data load...
+[28Dec2024 19:09:37.178] [Server thread/INFO] [LuckPerms/]: Successfully enabled. (took 2439ms)
+[28Dec2024 19:09:37.179] [Server thread/INFO] [WorldEdit/]: Enabling WorldEdit v7.2.20+6667-f0f1e66
+[28Dec2024 19:09:37.183] [Server thread/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[28Dec2024 19:09:37.237] [Server thread/INFO] [com.sk89q.wepif.PermissionsResolverManager/]: WEPIF: Using the Bukkit Permissions API.
+[28Dec2024 19:09:37.240] [Server thread/WARN] [WorldEdit/]: Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
+[28Dec2024 19:09:37.384] [Server thread/INFO] [com.sk89q.worldedit.bukkit.WorldEditPlugin/]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R1.PaperweightAdapter as the Bukkit adapter
+[28Dec2024 19:09:38.470] [Server thread/INFO] [WorldEdit/]: ====================================================
+[28Dec2024 19:09:38.470] [Server thread/INFO] [WorldEdit/]:  WorldEdit works better if you use Paper 
+[28Dec2024 19:09:38.470] [Server thread/INFO] [WorldEdit/]:  as your server software. 
+[28Dec2024 19:09:38.470] [Server thread/INFO] [WorldEdit/]: ====================================================
+[28Dec2024 19:09:38.470] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.5.1
+[28Dec2024 19:09:38.695] [Server thread/ERROR] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[31;1mSkinsRestorer was already loaded in this JVM. You must've used a plugin like PlugMan to reload it. This is not supported and will cause issues with the plugin! Please restart your server to reload the plugin properly.[0;39m
+[28Dec2024 19:09:38.770] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[28Dec2024 19:09:38.954] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.20.1[32;1m.[0;39m
+[28Dec2024 19:09:39.221] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: skinsrestorer [15.5.1]
+[28Dec2024 19:09:39.221] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39mPlaceholderAPI expansion registered![0;39m
+[28Dec2024 19:09:39.228] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mPlease update your Java runtime to at least Java 21 (your version is 17).[0;39m
+[28Dec2024 19:09:39.228] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mAt some point in the future, SkinsRestorer will no longer be compatible with this version of Java.[0;39m
+[28Dec2024 19:09:39.230] [Server thread/INFO] [NeoPerformance/]: Enabling NeoPerformance v1.15.4
+[28Dec2024 19:09:39.387] [Server thread/INFO] [SimpleTimer/]: Enabling SimpleTimer v1.5.2
+[28Dec2024 19:09:39.388] [Server thread/WARN] [SimpleTimer/]: Loaded class me.clip.placeholderapi.expansion.PlaceholderExpansion from PlaceholderAPI v2.11.6 which is not a depend or softdepend of this plugin.
+[28Dec2024 19:09:39.388] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: simpletimer [1.5.2]
+[28Dec2024 19:09:39.393] [Server thread/INFO] [Console/]: [SimpleTimer] Successfully Enabled (v1.5.2)
+[28Dec2024 19:09:39.393] [Server thread/INFO] [Console/]: [SimpleTimer] Xhasi » Thanks for using my plugin
+[28Dec2024 19:09:39.441] [Server thread/INFO] [Console/]: [SimpleTimer] There is a new version available. (v1.6.0)
+[28Dec2024 19:09:39.441] [Server thread/INFO] [Console/]: [SimpleTimer] You can download it at: https://www.spigotmc.org/resources/109565/
+[28Dec2024 19:09:39.442] [Server thread/INFO] [PlaceholderAPI/]: Enabling PlaceholderAPI v2.11.6
+[28Dec2024 19:09:39.571] [Server thread/INFO] [PlaceholderAPI/]: Fetching available expansion information...
+[28Dec2024 19:09:39.573] [Server thread/INFO] [CraftEnhance/]: Enabling CraftEnhance v2.5.9
+[28Dec2024 19:09:39.576] [Server thread/INFO] [CraftEnhance/]: Now starting MenuApi. Any errors will be shown below.
+[28Dec2024 19:09:39.576] [Server thread/WARN] [CraftEnhance/]: It is not tested on versions beyond 1.19.4
+[28Dec2024 19:09:39.581] [Server thread/WARN] [NBTAPI/]: [NBTAPI] This Server-Version(v1_20_R1) is not supported by this NBT-API Version(2.11.2) located at craftenhance.libs.menulib.dependencies.nbt.nbtapi.utils.MinecraftVersion. The NBT-API will try to work as good as it can! Some functions may not work!
+[28Dec2024 19:09:39.581] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Found Gson: class com.google.gson.Gson
+[28Dec2024 19:09:39.584] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Using the plugin 'NeoPerformance' to create a bStats instance!
+[28Dec2024 19:09:39.802] [Thread-34/WARN] [NBTAPI/]: [NBTAPI] The NBT-API located at 'package craftenhance.libs.menulib.dependencies.nbt.nbtapi' seems to be outdated!
+[28Dec2024 19:09:39.802] [Thread-34/WARN] [NBTAPI/]: [NBTAPI] Current Version: '2.11.2' Newest Version: 2.14.1'
+[28Dec2024 19:09:39.802] [Thread-34/WARN] [NBTAPI/]: [NBTAPI] Please update the NBTAPI or the plugin that contains the api(nag the mod author when the newest release has an old version, not the NBTAPI dev)!
+[28Dec2024 19:09:40.194] [Server thread/INFO] [Console/]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
+[28Dec2024 19:09:40.194] [Server thread/INFO] [Console/]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues.
+[28Dec2024 19:09:40.194] [Server thread/INFO] [Console/]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
+[28Dec2024 19:09:40.194] [Server thread/INFO] [Console/]: [CraftEnhance] The correct version is installed.
+[28Dec2024 19:09:40.198] [Server thread/INFO] [ClearLag/]: Enabling ClearLag v3.2.2
+[28Dec2024 19:09:40.199] [Server thread/INFO] [Minecraft/]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[28Dec2024 19:09:40.232] [Server thread/INFO] [Minecraft/]: [ClearLag] Loading modules...
+[28Dec2024 19:09:40.236] [Server thread/WARN] [Minecraft/]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (net.minecraft.server.v1_20_R1.MinecraftServer)
+[28Dec2024 19:09:40.236] [Server thread/INFO] [Minecraft/]: [ClearLag] Modules enabed, loading config values
+[28Dec2024 19:09:40.239] [Server thread/INFO] [Minecraft/]: [ClearLag] Modules have been loaded!
+[28Dec2024 19:09:40.240] [Server thread/INFO] [Minecraft/]: [ClearLag] Clearlag is now enabled!
+[28Dec2024 19:09:40.240] [Thread-35/INFO] [Minecraft/]: [ClearLag] Checking for updates compatible with your bukkit version [1.20]...
+[28Dec2024 19:09:40.241] [Server thread/INFO] [InvSee++/]: Enabling InvSeePlusPlus v0.29.11
+[28Dec2024 19:09:40.281] [Server thread/INFO] [WorldGuard/]: Enabling WorldGuard v7.0.9+5934e49
+[28Dec2024 19:09:40.342] [Thread-35/INFO] [Minecraft/]: [ClearLag] No updates found!
+[28Dec2024 19:09:40.431] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.1-b861
+[28Dec2024 19:09:40.435] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.1-b861" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[28Dec2024 19:09:40.436] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[28Dec2024 19:09:40.517] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Invalid world name 'DEDSAFIO 3 - By TheNeitorLoL'
+[28Dec2024 19:09:40.517] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] World name should not contain spaces or special characters!
+[28Dec2024 19:09:40.517] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Invalid world name 'DEDSAFIO 3 - By TheNeitorLoL/voltymod/minigames_2'
+[28Dec2024 19:09:40.517] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] World name should not contain spaces or special characters!
+[28Dec2024 19:09:40.517] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Invalid world name 'DEDSAFIO 3 - By TheNeitorLoL/DIM1'
+[28Dec2024 19:09:40.517] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] World name should not contain spaces or special characters!
+[28Dec2024 19:09:40.517] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Invalid world name 'DEDSAFIO 3 - By TheNeitorLoL/DIM-1'
+[28Dec2024 19:09:40.517] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] World name should not contain spaces or special characters!
+[28Dec2024 19:09:40.529] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 1 - World(s) loaded.
+[28Dec2024 19:09:40.530] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] The world specified as the spawn world (null) did not exist!!
+[28Dec2024 19:09:40.535] [Server thread/WARN] [Minecraft/]: [Multiverse-Core] Buscript failed to load! The script command will be disabled! If you would like not to see this message, use `/mv conf enablebuscript false` to disable Buscript from loading.
+[28Dec2024 19:09:40.541] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.1-b861 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[28Dec2024 19:09:40.543] [Server thread/INFO] [Shopkeepers/]: Enabling Shopkeepers v2.20.1
+[28Dec2024 19:09:40.570] [Server thread/INFO] [Shopkeepers/]: Loading the data of 4 shopkeepers ...
+[28Dec2024 19:09:40.599] [Server thread/INFO] [MythicMobs/]: Enabling MythicMobs v5.4.1-${CI_COMMIT_SHORT_SHA}
+[28Dec2024 19:09:40.778] [Server thread/INFO] [MythicMobs/]: Loading MythicMobs for Spigot (MC: 1.20.1)...[0m
+[28Dec2024 19:09:40.778] [Server thread/INFO] [MythicMobs/]: The server is running Spigot; disabled PaperSpigot exclusive functionality[0m
+[28Dec2024 19:09:41.932] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: mythic [5.0.0]
+[28Dec2024 19:09:41.933] [Server thread/INFO] [MythicMobs/]: Mythic PlaceholderAPI Support has been enabled![0m
+[28Dec2024 19:09:41.934] [Server thread/INFO] [MythicMobs/]: Mythic WorldGuard Support has been enabled![0m
+[28Dec2024 19:09:41.948] [Server thread/INFO] [MythicMobs/]: Base directory /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/SavedData
+[28Dec2024 19:09:41.948] [Server thread/INFO] [MythicMobs/]: Module directory /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/SavedData/worlds
+[28Dec2024 19:09:43.226] [Server thread/INFO] [MythicMobs/]: Loading Packs...[0m
+[28Dec2024 19:09:43.486] [Server thread/INFO] [MythicMobs/]: Loading Items...[0m
+[28Dec2024 19:09:43.508] [Server thread/INFO] [MythicMobs/]: Loading Item Groups...[0m
+[28Dec2024 19:09:43.508] [Server thread/INFO] [MythicMobs/]: Loading Skills...[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat ATTACK_DAMAGE from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat ATTACK_SPEED from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat BONUS_DAMAGE from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat CRITICAL_STRIKE_CHANCE from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat CRITICAL_STRIKE_DAMAGE from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat CRITICAL_STRIKE_RESILIENCE from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat DAMAGE_REDUCTION from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat DEFENSE from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat DODGE_CHANCE from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat DODGE_NEGATION from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat HEALTH from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat HEALTH_REGENERATION from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat LIFESTEAL_CHANCE from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat LIFESTEAL_POWER from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat MOVEMENT_SPEED from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat PARRY_CHANCE from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat PARRY_NEGATION from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat PARRY_POWER from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.536] [Server thread/INFO] [MythicMobs/]: Loading stat PARRY_COUNTERATTACK from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.537] [Server thread/INFO] [MythicMobs/]: Loading stat ARMOR_GENERIC from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.537] [Server thread/INFO] [MythicMobs/]: Loading stat ARMOR_BLUNT from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.537] [Server thread/INFO] [MythicMobs/]: Loading stat ARMOR_SHARP from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.537] [Server thread/INFO] [MythicMobs/]: Loading stat DAMAGE_BLUNT from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.537] [Server thread/INFO] [MythicMobs/]: Loading stat DAMAGE_SHARP from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.537] [Server thread/INFO] [MythicMobs/]: Loading stat FIRE_RESISTANCE from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.537] [Server thread/INFO] [MythicMobs/]: Loading stat SPEED from /workspaces/MSX/servidor_minecraft/plugins/MythicMobs/stats.yml[0m
+[28Dec2024 19:09:43.601] [Server thread/INFO] [MythicMobs/]: Loading Drop Tables...[0m
+[28Dec2024 19:09:43.602] [Server thread/INFO] [MythicMobs/]: Loading Random Spawns...[0m
+[28Dec2024 19:09:43.605] [Server thread/INFO] [MythicMobs/]: Loading Spawn Blocks...[0m
+[28Dec2024 19:09:43.616] [Server thread/INFO] [MythicMobs/]: [32m✓[37m Loaded 9 mobs.[0m
+[28Dec2024 19:09:43.616] [Server thread/INFO] [MythicMobs/]: [32m✓[37m Loaded 3 vanilla mob overrides.[0m
+[28Dec2024 19:09:43.616] [Server thread/INFO] [MythicMobs/]: [32m✓[37m Loaded 0 mob stacks.[0m
+[28Dec2024 19:09:43.616] [Server thread/INFO] [MythicMobs/]: [32m✓[37m Loaded 3 skills.[0m
+[28Dec2024 19:09:43.616] [Server thread/INFO] [MythicMobs/]: [32m✓[37m Loaded 0 random spawns.[0m
+[28Dec2024 19:09:43.617] [Server thread/INFO] [MythicMobs/]: [32m✓[37m Loaded 3 mythic items.[0m
+[28Dec2024 19:09:43.617] [Server thread/INFO] [MythicMobs/]: [32m✓[37m Loaded 2 drop tables.[0m
+[28Dec2024 19:09:43.617] [Server thread/INFO] [MythicMobs/]: [32m✓[37m Loaded 0 mob spawners.[0m
+[28Dec2024 19:09:43.617] [Server thread/INFO] [MythicMobs/]: MythicMobs configuration file loaded successfully.[0m
+[28Dec2024 19:09:43.631] [Server thread/ERROR] [MythicMobs/]: Plugin MythicMobs v5.4.1-${CI_COMMIT_SHORT_SHA} has failed to register events for class io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers because com/destroystokyo/paper/event/entity/CreeperIgniteEvent does not exist.
+[28Dec2024 19:09:43.702] [Server thread/INFO] [MythicMobs/]: Started up bStats Metrics[0m
+[28Dec2024 19:09:43.704] [Server thread/INFO] [MythicMobs/]: [32m✓ MythicMobs v5.4.1 ( build ${CI_COMMIT_SHORT_SHA} ) has been successfully loaded![0m[0m
+[28Dec2024 19:09:43.706] [Server thread/INFO] [InvSee++_Clear/]: Enabling InvSeePlusPlus_Clear v0.29.11
+[28Dec2024 19:09:43.710] [Server thread/INFO] [InvSee++_Give/]: Enabling InvSeePlusPlus_Give v0.29.11
+[28Dec2024 19:09:43.718] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.59.1
+[28Dec2024 19:09:43.753] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: conditionalevents [4.59.1]
+[28Dec2024 19:09:43.903] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.59.1
+[28Dec2024 19:09:43.903] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[28Dec2024 19:09:43.923] [Server thread/INFO] [ProtectionStones/]: Enabling ProtectionStones v2.10.5
+[28Dec2024 19:09:43.962] [Server thread/WARN] [ProtectionStones/]: Vault not enabled! There will be no economy support!
+[28Dec2024 19:09:43.963] [Server thread/INFO] [ProtectionStones/]: PlaceholderAPI support enabled!
+[28Dec2024 19:09:43.964] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered internal expansion: protectionstones [2.10.5]
+[28Dec2024 19:09:43.964] [Server thread/INFO] [ProtectionStones/]: LuckPerms support enabled!
+[28Dec2024 19:09:43.976] [Server thread/INFO] [ProtectionStones/]: Protection Stone Blocks:
+[28Dec2024 19:09:43.979] [Server thread/INFO] [ProtectionStones/]: - EMERALD_ORE (64)
+[28Dec2024 19:09:44.019] [Server thread/WARN] [ProtectionStones/]: Vault is not enabled! Economy functions (renting & buying) will not work!
+[28Dec2024 19:09:44.116] [Server thread/INFO] [ProtectionStones/]: Building region cache...
+[28Dec2024 19:09:44.117] [Server thread/INFO] [ProtectionStones/]: Building UUID cache... (if slow change async-load-uuid-cache in the config to true)
+[28Dec2024 19:09:44.136] [Server thread/INFO] [ProtectionStones/]: Checking if PS regions have been updated to UUIDs...
+[28Dec2024 19:09:44.136] [Server thread/INFO] [ProtectionStones/]: ProtectionStones has successfully started!
+[28Dec2024 19:09:44.138] [Server thread/INFO] [SimplePortals/]: Enabling SimplePortals v1.7.6
+[28Dec2024 19:09:44.142] [Server thread/INFO] [Minecraft/]: [SimplePortals] Everything inside the configuration seems to be up to date. (Took 1ms)
+[28Dec2024 19:09:44.148] [Server thread/INFO] [Minecraft/]: [SimplePortals] Packets have been setup for v1_20_R1!
+[28Dec2024 19:09:44.188] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[28Dec2024 19:09:44.240] [Server thread/INFO] [PlaceholderAPI/]: Placeholder expansion registration initializing...
+[28Dec2024 19:09:44.249] [Server thread/INFO] [Console/]: CONSOLE: Reload complete.
+[28Dec2024 19:09:44.249] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5783ms or 115 ticks behind
+[28Dec2024 19:09:44.258] [Server thread/INFO] [Minecraft/]: [NeoPerformance] NeoPerformance (By KyTDK) is enabled and using bStats!
+[28Dec2024 19:09:44.274] [Craft Scheduler Thread - 4/INFO] [Minecraft/]: [NeoPerformance] NeoPerformance v1.15.5 is out. Download it at: https://www.spigotmc.org/resources/neoperformance.103183/
+[28Dec2024 19:09:44.286] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[28Dec2024 19:09:44.286] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[28Dec2024 19:09:44.286] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[28Dec2024 19:09:44.286] [Server thread/INFO] [PlaceholderAPI/]: Successfully registered external expansion: player [2.0.8]
+[28Dec2024 19:09:44.286] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[28Dec2024 19:09:44.287] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[28Dec2024 19:09:44.288] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[28Dec2024 19:09:44.288] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[28Dec2024 19:09:44.288] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.1[0;39m
+[28Dec2024 19:09:44.288] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1md5d8613[0;39m
+[28Dec2024 19:09:44.288] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[28Dec2024 19:09:44.288] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[28Dec2024 19:09:44.288] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[28Dec2024 19:09:44.288] [Craft Scheduler Thread - 9/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[28Dec2024 19:09:44.289] [Server thread/INFO] [Console/]: 1 placeholder hook(s) registered!
+[28Dec2024 19:09:44.330] [Craft Scheduler Thread - 11/INFO] [Console/]: [CraftEnhance] There's a new version (2.4.4) of the plugin available on https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files.
