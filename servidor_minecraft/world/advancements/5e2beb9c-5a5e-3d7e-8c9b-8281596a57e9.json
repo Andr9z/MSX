@@ -15,12 +15,14 @@
     "criteria": {
       "minecraft:deep_ocean": "2024-12-22 02:10:59 +0000",
       "minecraft:sunflower_plains": "2024-12-22 01:18:54 +0000",
+      "minecraft:birch_forest": "2024-12-29 21:44:25 +0000",
       "minecraft:windswept_hills": "2024-12-21 21:28:30 +0000",
       "minecraft:bamboo_jungle": "2024-12-21 20:41:29 +0000",
       "minecraft:beach": "2024-12-22 02:44:07 +0000",
       "minecraft:dark_forest": "2024-12-22 01:13:23 +0000",
       "minecraft:sparse_jungle": "2024-12-21 21:01:46 +0000",
       "minecraft:river": "2024-12-21 21:05:37 +0000",
+      "minecraft:snowy_plains": "2024-12-29 21:44:24 +0000",
       "minecraft:swamp": "2024-12-22 02:46:39 +0000",
       "minecraft:cold_ocean": "2024-12-22 02:18:04 +0000",
       "minecraft:forest": "2024-12-21 20:52:33 +0000",
@@ -29,6 +31,7 @@
       "minecraft:windswept_forest": "2024-12-21 22:34:22 +0000",
       "minecraft:deep_frozen_ocean": "2024-12-22 02:18:14 +0000",
       "minecraft:jungle": "2024-12-21 21:01:45 +0000",
+      "minecraft:ocean": "2024-12-29 21:42:28 +0000",
       "minecraft:flower_forest": "2024-12-22 01:15:51 +0000",
       "minecraft:savanna": "2024-12-21 21:06:03 +0000",
       "minecraft:plains": "2024-12-21 20:52:29 +0000"
@@ -635,6 +638,7 @@
       "minecraft:spider": "2024-12-22 01:51:53 +0000",
       "minecraft:creeper": "2024-12-22 01:47:57 +0000",
       "minecraft:phantom": "2024-12-22 01:57:54 +0000",
+      "minecraft:enderman": "2024-12-29 21:37:13 +0000",
       "minecraft:zombie": "2024-12-21 21:08:42 +0000"
     },
     "done": false
@@ -676,6 +680,7 @@
       "cooked_beef": "2024-12-21 21:11:55 +0000",
       "potato": "2024-12-21 21:36:53 +0000",
       "bread": "2024-12-21 21:38:47 +0000",
+      "golden_apple": "2024-12-29 21:35:03 +0000",
       "rotten_flesh": "2024-12-21 21:37:07 +0000",
       "melon_slice": "2024-12-22 01:54:44 +0000"
     },
@@ -1848,6 +1853,48 @@
   "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
     "criteria": {
       "has_azure_bluet": "2024-12-22 21:25:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2024-12-29 21:55:53 +0000"
+    },
+    "done": true
+  },
+  "casinocraft:recipes/decorations/wool_light_gray": {
+    "criteria": {
+      "has_wool": "2024-12-29 21:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-29 21:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2024-12-29 21:55:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-29 21:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2024-12-29 21:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_tulip": {
+    "criteria": {
+      "has_red_flower": "2024-12-29 21:53:09 +0000"
     },
     "done": true
   },

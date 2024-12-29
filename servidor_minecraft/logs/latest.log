@@ -1967,3 +1967,340 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [29Dec2024 21:31:12.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 5 entities
 [29Dec2024 21:31:17.239] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp Dropped_by_Parca
 [29Dec2024 21:31:17.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to Dropped_by_Parca]
+[29Dec2024 21:31:30.713] [Async Chat Thread - #1/INFO] [Console/]: <Dropped_by_Parca> ya vengo
+[29Dec2024 21:31:34.252] [Async Chat Thread - #0/INFO] [Console/]: <Dropped_by_Parca> voy a almorzar
+[29Dec2024 21:31:39.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dropped_by_Parca lost connection: Disconnected
+[29Dec2024 21:31:39.270] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dropped_by_Parca
+[29Dec2024 21:31:39.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dropped_by_Parca left the game
+[29Dec2024 21:31:40.794] [Async Chat Thread - #1/INFO] [Console/]: <TGgohan_YT> xd
+[29Dec2024 21:31:41.552] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> NAA
+[29Dec2024 21:31:42.310] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> JADJADJA
+[29Dec2024 21:31:42.794] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> mmm
+[29Dec2024 21:31:43.564] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> xdddddddddd
+[29Dec2024 21:31:45.866] [Async Chat Thread - #0/INFO] [Console/]: <Roberto_mc1> ban
+[29Dec2024 21:31:46.678] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> dea
+[29Dec2024 21:31:47.670] [Async Chat Thread - #0/INFO] [Console/]: <Roberto_mc1> xD
+[29Dec2024 21:32:03.896] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta roja @a title Cada 10 segundos le aparecera 1 creeper a gohan durante 1 minuto
+[29Dec2024 21:32:03.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 4 entities
+[29Dec2024 21:32:07.337] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> el q se salga bab
+[29Dec2024 21:32:08.992] [Async Chat Thread - #0/INFO] [Console/]: <Roberto_mc1> ban
+[29Dec2024 21:32:18.934] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp TGgohan_YT
+[29Dec2024 21:32:18.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to TGgohan_YT]
+[29Dec2024 21:32:34.242] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> correee
+[29Dec2024 21:33:18.405] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> gg
+[29Dec2024 21:33:21.905] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> hace uno de creepers pero para todos
+[29Dec2024 21:33:24.972] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp bosteritomop
+[29Dec2024 21:33:24.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to bosteritomop]
+[29Dec2024 21:33:30.298] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> 5 minutos aguantando
+[29Dec2024 21:33:35.796] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> lo haria pero no me se el comando xD
+[29Dec2024 21:33:44.531] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> summon a
+[29Dec2024 21:33:51.136] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta roja @a title Cada 10 segundos le aparecera 1 creeper a boste durante 1 minuto
+[29Dec2024 21:33:51.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 4 entities
+[29Dec2024 21:33:57.579] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> ./summon creeper @a
+[29Dec2024 21:34:05.401] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> no deja
+[29Dec2024 21:34:09.773] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> a
+[29Dec2024 21:34:23.168] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> casi ripeo xd
+[29Dec2024 21:35:16.882] [Async Chat Thread - #0/INFO] [Console/]: <Roberto_mc1> gg
+[29Dec2024 21:35:23.902] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> hago algo mas hard?
+[29Dec2024 21:35:32.782] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> esperate q muero
+[29Dec2024 21:35:36.638] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> si pero hace de dia
+[29Dec2024 21:35:55.263] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta roja @a title Cada 10 segundos le aparecera 1 creeper y 5 phatoms a boste durante 1 minuto
+[29Dec2024 21:35:55.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 4 entities
+[29Dec2024 21:36:02.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp bosteritomop
+[29Dec2024 21:36:02.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to bosteritomop]
+[29Dec2024 21:36:09.941] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> boste sal de ahi
+[29Dec2024 21:36:10.342] [Async Chat Thread - #0/INFO] [Console/]: <Roberto_mc1> boste sal de ahi
+[29Dec2024 21:36:10.664] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> boste sal de ahi
+[29Dec2024 21:36:10.962] [Async Chat Thread - #0/INFO] [Console/]: <Roberto_mc1> boste sal de ahi}
+[29Dec2024 21:36:11.246] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> boste sal de ahi}
+[29Dec2024 21:36:11.531] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> boste sal de ahi}
+[29Dec2024 21:36:20.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp bosteritomop
+[29Dec2024 21:36:20.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to bosteritomop]
+[29Dec2024 21:36:54.928] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp bosteritomop Roberto_mc1
+[29Dec2024 21:36:54.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported bosteritomop to Roberto_mc1]
+[29Dec2024 21:36:57.998] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> NAAA
+[29Dec2024 21:37:01.319] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp bosteritomop Roberto_mc1
+[29Dec2024 21:37:01.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported bosteritomop to Roberto_mc1]
+[29Dec2024 21:37:06.556] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> extraño mi toque de seda
+[29Dec2024 21:37:06.793] [Async Chat Thread - #0/INFO] [Console/]: <TGgohan_YT> lucho??
+[29Dec2024 21:37:09.244] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> q
+[29Dec2024 21:37:20.053] [Async Chat Thread - #0/INFO] [Console/]: <TGgohan_YT> dnd estas?w
+[29Dec2024 21:37:25.385] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> llendo pa base
+[29Dec2024 21:37:26.754] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> god boste
+[29Dec2024 21:37:29.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp TGgohan_YT
+[29Dec2024 21:37:29.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to TGgohan_YT]
+[29Dec2024 21:37:32.239] [Async Chat Thread - #0/INFO] [Console/]: <TGgohan_YT> el casino sirve?
+[29Dec2024 21:37:38.105] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> MATAOLS
+[29Dec2024 21:37:40.111] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> creo q no
+[29Dec2024 21:37:43.014] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta roja @a title Cada 10 segundos le aparecera 1 creeper y 5 phatoms a lucho durante 1 minuto
+[29Dec2024 21:37:43.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 4 entities
+[29Dec2024 21:37:49.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp luchooos
+[29Dec2024 21:37:49.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to luchooos]
+[29Dec2024 21:37:56.121] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp luchooos
+[29Dec2024 21:37:56.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to luchooos]
+[29Dec2024 21:38:02.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ftblibrary night
+[29Dec2024 21:38:16.753] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> AL AGUA LUCHO
+[29Dec2024 21:38:24.123] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> si vas a agua te hago tp
+[29Dec2024 21:38:31.288] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> pero pierde tiempo
+[29Dec2024 21:38:54.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 8 [DEDita] to TGgohan_YT
+[29Dec2024 21:38:54.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player TGgohan_YT
+[29Dec2024 21:39:01.276] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> eu
+[29Dec2024 21:39:06.291] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> a mi no me dieron dedita azul
+[29Dec2024 21:39:10.337] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> celeste digod
+[29Dec2024 21:39:25.513] [Async Chat Thread - #0/INFO] [Console/]: <Roberto_mc1> gohan te quitare las deditas xq eso era de un dia anterior
+[29Dec2024 21:39:31.035] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> f
+[29Dec2024 21:39:32.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /invsee TGgohan_YT
+[29Dec2024 21:39:34.348] [Async Chat Thread - #1/INFO] [Console/]: <TGgohan_YT> okk
+[29Dec2024 21:39:44.316] [Async Chat Thread - #0/INFO] [Console/]: <TGgohan_YT> el casino sirve?
+[29Dec2024 21:39:49.239] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> no
+[29Dec2024 21:39:50.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp TGgohan_YT
+[29Dec2024 21:39:50.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to TGgohan_YT]
+[29Dec2024 21:39:55.086] [Async Chat Thread - #1/INFO] [Console/]: <TGgohan_YT> q mal
+[29Dec2024 21:40:13.577] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> la puta
+[29Dec2024 21:40:19.842] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta roja @a title Gohan tiene 2 mins para salir de la montaña o se le hara kill
+[29Dec2024 21:40:19.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 4 entities
+[29Dec2024 21:40:26.366] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp TGgohan_YT
+[29Dec2024 21:40:26.366] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to TGgohan_YT]
+[29Dec2024 21:40:40.860] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> gohan corre
+[29Dec2024 21:40:42.741] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> no es facil
+[29Dec2024 21:40:43.589] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> no es facil
+[29Dec2024 21:40:43.923] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> no es facil
+[29Dec2024 21:40:44.189] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> no es facil
+[29Dec2024 21:40:51.757] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> a jajaja
+[29Dec2024 21:41:01.918] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> che roberto
+[29Dec2024 21:41:04.231] [Async Chat Thread - #0/INFO] [Console/]: <Roberto_mc1> q
+[29Dec2024 21:41:06.761] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> che loco me tuve q comer una notch
+[29Dec2024 21:41:09.078] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> no me pueden devolver mis verrugas del nether_
+[29Dec2024 21:41:10.334] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> ?
+[29Dec2024 21:41:10.451] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> o sino moria
+[29Dec2024 21:41:12.850] [Async Chat Thread - #1/INFO] [Console/]: <TGgohan_YT> listo
+[29Dec2024 21:41:14.533] [Async Chat Thread - #0/INFO] [Console/]: <Roberto_mc1> no :D
+[29Dec2024 21:41:20.782] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> abran nether por lo menos
+[29Dec2024 21:41:23.458] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> tengo que hacer pociones
+[29Dec2024 21:41:26.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta roja @a title Cada 10 segundos le aparecera 1 creeper y 5 phatoms a gohan durante 1 minuto
+[29Dec2024 21:41:26.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 4 entities
+[29Dec2024 21:41:26.622] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> eso
+[29Dec2024 21:41:41.174] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp TGgohan_YT Roberto_mc1
+[29Dec2024 21:41:41.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported TGgohan_YT to Roberto_mc1]
+[29Dec2024 21:41:42.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ftblibrary night
+[29Dec2024 21:41:45.775] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> what
+[29Dec2024 21:41:46.775] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> q}
+[29Dec2024 21:41:47.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ftblibrary day
+[29Dec2024 21:41:48.282] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ftblibrary night
+[29Dec2024 21:42:01.218] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> correeeeeeeeeeee
+[29Dec2024 21:42:11.164] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> che loco me tuve q comer una notch
+[29Dec2024 21:42:15.554] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> xd
+[29Dec2024 21:42:23.253] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> yo me la banque duro
+[29Dec2024 21:42:31.086] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp TGgohan_YT Roberto_mc1
+[29Dec2024 21:42:31.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported TGgohan_YT to Roberto_mc1]
+[29Dec2024 21:42:34.113] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> pero mira la vida q tenes vos
+[29Dec2024 21:42:37.191] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> asdja
+[29Dec2024 21:42:43.336] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> a mi un creper me explota uy me mata
+[29Dec2024 21:42:56.519] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> encima justo el phantom me quito totem xd
+[29Dec2024 21:42:57.166] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp TGgohan_YT Roberto_mc1
+[29Dec2024 21:42:57.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported TGgohan_YT to Roberto_mc1]
+[29Dec2024 21:43:02.800] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> gg gohan
+[29Dec2024 21:43:03.303] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> como se hacian las pociones arrojadizas de agua_
+[29Dec2024 21:43:03.929] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> ?
+[29Dec2024 21:43:14.192] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> con polvora creo
+[29Dec2024 21:43:15.521] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> con polvora
+[29Dec2024 21:43:24.570] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> pero necesito ponerle algo para que sea pocion rar
+[29Dec2024 21:43:26.863] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> rara
+[29Dec2024 21:43:28.065] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> sale mas o ya no?
+[29Dec2024 21:43:29.352] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> xq sino no se puede
+[29Dec2024 21:43:40.152] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> creo
+[29Dec2024 21:43:44.354] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> verruga
+[29Dec2024 21:43:45.267] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp bosteritomop
+[29Dec2024 21:43:45.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to bosteritomop]
+[29Dec2024 21:43:49.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 21:43:49.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 21:43:49.807] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> y el polvo de blaze
+[29Dec2024 21:43:53.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ftblibrary gamemode
+[29Dec2024 21:43:58.122] [Async Chat Thread - #1/INFO] [Console/]: <bosteritomop> la re puta madre, el nether esta cerrado
+[29Dec2024 21:44:03.393] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> y ahora?
+[29Dec2024 21:44:11.495] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> tocara esperar xd
+[29Dec2024 21:44:14.543] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> calderos a full
+[29Dec2024 21:44:19.998] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> se
+[29Dec2024 21:44:32.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta roja @a title Cada 10 segundos le aparecera 1 creeper 5 phatoms y 2 piglins brutes a luchoo durante 1 minuto
+[29Dec2024 21:44:32.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.roja' to 4 entities
+[29Dec2024 21:44:36.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp luchooos
+[29Dec2024 21:44:36.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to luchooos]
+[29Dec2024 21:44:37.570] [Async Chat Thread - #0/INFO] [Console/]: <bosteritomop> DALEE
+[29Dec2024 21:44:39.724] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 21:44:39.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 21:44:41.066] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 21:44:41.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 21:44:42.736] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 21:44:42.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 21:44:50.549] [Async Chat Thread - #1/INFO] [Console/]: <Roberto_mc1> lucho sali de ahi
+[29Dec2024 21:44:51.240] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp luchooos
+[29Dec2024 21:44:51.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to luchooos]
+[29Dec2024 21:44:53.865] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> q
+[29Dec2024 21:44:55.716] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 21:44:55.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 21:45:09.081] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ftblibrary night
+[29Dec2024 21:45:50.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 lost connection: Disconnected
+[29Dec2024 21:45:50.128] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_mc1
+[29Dec2024 21:45:50.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_mc1 left the game
+[29Dec2024 21:45:55.371] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> u
+[29Dec2024 21:45:56.435] [Async Chat Thread - #2/INFO] [Console/]: <bosteritomop> q paso
+[29Dec2024 21:46:04.284] [Async Chat Thread - #3/INFO] [Console/]: <TGgohan_YT> lucho?
+[29Dec2024 21:46:21.924] [Async Chat Thread - #2/INFO] [Console/]: <luchooos> LA BASE ROBERTO HDP
+[29Dec2024 21:46:50.156] [Async Chat Thread - #3/INFO] [Console/]: <luchooos> gohan
+[29Dec2024 21:46:51.617] [Async Chat Thread - #3/INFO] [Console/]: <luchooos> donde tas
+[29Dec2024 21:46:57.008] [Async Chat Thread - #3/INFO] [Console/]: <TGgohan_YT> Me hicieron tp a otra bsae
+[29Dec2024 21:47:01.810] [User Authenticator #7/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dropped_by_Parca is 496b7ed4-bb93-30a5-9369-e74975a04527
+[29Dec2024 21:47:03.578] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dropped_by_Parca[/127.194.189.13:54219] logged in with entity id 21168 at (-475.7671762954645, 64.0, 664.8840812298483)
+[29Dec2024 21:47:03.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dropped_by_Parca joined the game
+[29Dec2024 21:47:05.276] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dropped_by_Parca (18)
+[29Dec2024 21:47:05.276] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dropped_by_Parca
+[29Dec2024 21:47:12.682] [Async Chat Thread - #2/INFO] [Console/]: <luchooos> q
+[29Dec2024 21:47:13.265] [Async Chat Thread - #2/INFO] [Console/]: <Dropped_by_Parca> q?
+[29Dec2024 21:47:16.045] [Async Chat Thread - #2/INFO] [Console/]: <Dropped_by_Parca> Hermano
+[29Dec2024 21:47:17.954] [Async Chat Thread - #3/INFO] [Console/]: <TGgohan_YT> Te iba a preguntar las cords de la base
+[29Dec2024 21:47:19.367] [Async Chat Thread - #2/INFO] [Console/]: <Dropped_by_Parca> solo me fui a almorzar
+[29Dec2024 21:47:23.390] [Async Chat Thread - #3/INFO] [Console/]: <Dropped_by_Parca> na
+[29Dec2024 21:47:30.516] [Async Chat Thread - #2/INFO] [Console/]: <TGgohan_YT> Nos quierenn matar
+[29Dec2024 21:47:51.892] [Async Chat Thread - #3/INFO] [Console/]: <luchooos> -450 650 base
+[29Dec2024 21:47:56.287] [Async Chat Thread - #2/INFO] [Console/]: <TGgohan_YT> Okk
+[29Dec2024 21:48:23.519] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> alguien tiene silk touch en su base?
+[29Dec2024 21:48:30.518] [Async Chat Thread - #2/INFO] [Console/]: <luchooos> tenia
+[29Dec2024 21:48:31.179] [Async Chat Thread - #3/INFO] [Console/]: <TGgohan_YT> q es?
+[29Dec2024 21:48:36.973] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> toque de seda
+[29Dec2024 21:48:49.391] [Async Chat Thread - #3/INFO] [Console/]: <luchooos> eu parca
+[29Dec2024 21:48:54.883] [Async Chat Thread - #2/INFO] [Console/]: <luchooos> creo q te va a caer una sancion
+[29Dec2024 21:48:55.277] [Async Chat Thread - #3/INFO] [Console/]: <Dropped_by_Parca> q
+[29Dec2024 21:48:59.575] [Async Chat Thread - #2/INFO] [Console/]: <bosteritomop> se
+[29Dec2024 21:49:04.268] [Async Chat Thread - #2/INFO] [Console/]: <Dropped_by_Parca> bro dije que iba a almorzar
+[29Dec2024 21:49:08.398] [Async Chat Thread - #3/INFO] [Console/]: <Dropped_by_Parca> y ya lo habia dicho antes
+[29Dec2024 21:49:09.950] [Async Chat Thread - #3/INFO] [Console/]: <TGgohan_YT> eso es vdd
+[29Dec2024 21:49:21.248] [Async Chat Thread - #2/INFO] [Console/]: <Dropped_by_Parca> le tomo foto al plato de la comida men
+[29Dec2024 21:49:57.093] [Async Chat Thread - #3/INFO] [Console/]: <Dropped_by_Parca> esperando el clear lag
+[29Dec2024 21:50:05.902] [Async Chat Thread - #3/INFO] [Console/]: <luchooos> parca
+[29Dec2024 21:50:14.233] [Async Chat Thread - #2/INFO] [Console/]: <Dropped_by_Parca> q
+[29Dec2024 21:50:28.713] [Async Chat Thread - #3/INFO] [Console/]: <luchooos> busca enchants en aldeanos y yo voy a buscar pizarra pal trading hall
+[29Dec2024 21:50:36.832] [Async Chat Thread - #2/INFO] [Console/]: <Dropped_by_Parca> yo voy al nether
+[29Dec2024 21:50:40.466] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> no se puede
+[29Dec2024 21:50:42.356] [Async Chat Thread - #2/INFO] [Console/]: <luchooos> cual si no hay
+[29Dec2024 21:50:48.475] [Async Chat Thread - #3/INFO] [Console/]: <Dropped_by_Parca> segun andres esta activado
+[29Dec2024 21:50:56.076] [Async Chat Thread - #3/INFO] [Console/]: <bosteritomop> no lo esta
+[29Dec2024 21:52:01.182] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-473.6176116168499, 65.73865938186646, 663.0) too far away from hit block BlockPos{x=-474, y=64, z=662}.
+[29Dec2024 21:52:17.918] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> ahh pero en el spawn habia varitas de blaze
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 21:52:19.068] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 21:52:23.494] [Async Chat Thread - #4/INFO] [Console/]: <luchooos> donde
+[29Dec2024 21:52:24.512] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> xd
+[29Dec2024 21:52:31.427] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> en monta;a
+[29Dec2024 21:52:40.847] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> me regalas un par=
+[29Dec2024 21:52:42.180] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> ?
+[29Dec2024 21:52:45.352] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> a ver a ver
+[29Dec2024 21:52:48.981] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> gratis...
+[29Dec2024 21:52:53.398] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> mendigo
+[29Dec2024 21:52:55.956] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> esta 1 dedita azul creo
+[29Dec2024 21:53:03.297] [Async Chat Thread - #4/INFO] [Console/]: <luchooos> a venden?
+[29Dec2024 21:53:05.715] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> si
+[29Dec2024 21:53:10.546] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> vos compraste?w
+[29Dec2024 21:53:16.518] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> no pero me fije
+[29Dec2024 21:53:21.941] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> ahorita iba a comprar
+[29Dec2024 21:53:22.961] [Async Chat Thread - #4/INFO] [Console/]: <luchooos> re caro una dedita azul igual
+[29Dec2024 21:53:25.959] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> na
+[29Dec2024 21:53:39.097] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> 1 vara x dedita?
+[29Dec2024 21:53:44.893] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> no
+[29Dec2024 21:53:50.455] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> va no se
+[29Dec2024 21:53:51.799] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> ya me fijo
+[29Dec2024 21:54:03.289] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> toy llendo io
+[29Dec2024 21:54:11.424] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> x2
+[29Dec2024 21:54:17.501] [Async Chat Thread - #4/INFO] [Console/]: <luchooos> q opaja no poner ir x nether
+[29Dec2024 21:54:17.797] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> x417541
+[29Dec2024 21:54:57.944] [Async Chat Thread - #4/INFO] [Console/]: <luchooos> cuando necesito ranas no hay lpm
+[29Dec2024 21:55:03.908] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> pa q queres ranas
+[29Dec2024 21:55:07.184] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> mal
+[29Dec2024 21:55:09.363] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/26001, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-1355.67, y=61.00, z=-130.08] died, message: 'Villager hit the ground too hard whilst trying to escape Zombie'
+[29Dec2024 21:55:09.986] [Async Chat Thread - #4/INFO] [Console/]: <luchooos> oa mision secundaria
+[29Dec2024 21:55:25.070] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> llevo el 6%
+[29Dec2024 21:55:25.655] [Async Chat Thread - #4/INFO] [Console/]: <luchooos> acabo de matar 80 ranas juntas me faltan 20
+[29Dec2024 21:55:27.601] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> a mi me sacaron la de las raids y todo
+[29Dec2024 21:55:34.304] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> reclama
+[29Dec2024 21:55:42.416] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> me dijeron q no se podia
+[29Dec2024 21:55:43.224] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> va
+[29Dec2024 21:55:45.248] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> dsp pregunto bien
+[29Dec2024 21:55:47.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[29Dec2024 21:55:50.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[29Dec2024 21:55:52.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[29Dec2024 21:55:54.072] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> ?
+[29Dec2024 21:55:58.106] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> donde estas
+[29Dec2024 21:56:02.144] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> boton?
+[29Dec2024 21:56:11.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[29Dec2024 21:56:17.682] [Async Chat Thread - #4/INFO] [Console/]: <luchooos> q
+[29Dec2024 21:56:18.282] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> toy
+[29Dec2024 21:56:19.707] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> safe
+[29Dec2024 21:56:23.169] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> NO
+[29Dec2024 21:56:23.430] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> q era
+[29Dec2024 21:56:25.426] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> BLOOD MON NO
+[29Dec2024 21:56:28.671] [Async Chat Thread - #4/INFO] [Console/]: <TGgohan_YT> q es?
+[29Dec2024 21:56:31.535] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> no se puede saltear
+[29Dec2024 21:56:39.852] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> y aumenta el spawneo de mobsw
+[29Dec2024 21:56:51.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ bosteritomop ha consumido un tótem!
+[29Dec2024 21:56:54.375] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> q suerte justo llegue a montañw
+[29Dec2024 21:56:59.885] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> deja de popear mierda
+[29Dec2024 21:57:01.155] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> mori
+[29Dec2024 21:57:01.691] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> boiste?
+[29Dec2024 21:57:09.065] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> donde estas bosteritomop??
+[29Dec2024 21:57:16.399] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> te ayudo
+[29Dec2024 21:57:20.245] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> peto
+[29Dec2024 21:57:23.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] que mierda esta pasando
+[29Dec2024 21:57:30.414] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> muero
+[29Dec2024 21:57:43.251] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> donde estas pedazo de nigga
+[29Dec2024 21:57:49.743] [Async Chat Thread - #4/INFO] [Console/]: <luchooos> pasa cords te auido
+[29Dec2024 21:57:56.717] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> wait
+[29Dec2024 21:58:02.909] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> no puede ser
+[29Dec2024 21:58:14.100] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> me estoy quemando
+[29Dec2024 21:58:15.965] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> y no tengo agua
+[29Dec2024 21:58:23.440] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> q pendejo
+[29Dec2024 21:58:23.635] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> y donde estas
+[29Dec2024 21:58:28.142] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> cerca spawn
+[29Dec2024 21:58:33.181] [Async Chat Thread - #4/INFO] [Console/]: <luchooos> estoy cerca
+[29Dec2024 21:58:36.217] [Async Chat Thread - #4/INFO] [Console/]: <luchooos> estoy en spawn
+[29Dec2024 21:58:39.813] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> pasa cords
+[29Dec2024 21:58:41.382] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> 1 dedita x 3 varas
+[29Dec2024 21:58:51.446] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> 3 deditas por 3 de obsidiana
+[29Dec2024 21:58:59.230] [Async Chat Thread - #4/INFO] [Console/]: <bosteritomop> AGUA
+[29Dec2024 21:59:02.395] [Async Chat Thread - #5/INFO] [Console/]: <luchooos> boste pasa cord
+[29Dec2024 21:59:12.223] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> JUJU
+[29Dec2024 21:59:19.253] [Async Chat Thread - #5/INFO] [Console/]: <bosteritomop> toy
+[29Dec2024 22:00:38.641] [Async Chat Thread - #7/INFO] [Console/]: <luchooos> q puta luna
+[29Dec2024 22:00:42.595] [Async Chat Thread - #7/INFO] [Console/]: <luchooos> nunca estuvo estya emrd
+[29Dec2024 22:01:20.558] [Async Chat Thread - #6/INFO] [Console/]: <Dropped_by_Parca> solo hay shulker bags azules
+[29Dec2024 22:01:22.741] [Async Chat Thread - #6/INFO] [Console/]: <Dropped_by_Parca> vaya mield
+[29Dec2024 22:01:32.592] [Async Chat Thread - #7/INFO] [Console/]: <bosteritomop> se puede tintar reo
+[29Dec2024 22:01:33.617] [Async Chat Thread - #7/INFO] [Console/]: <bosteritomop> creo
+[29Dec2024 22:01:39.044] [Async Chat Thread - #6/INFO] [Console/]: <luchooos> si creo q si
