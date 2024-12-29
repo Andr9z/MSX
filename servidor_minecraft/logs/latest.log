@@ -713,3 +713,90 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Dec2024 01:38:04.958] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c2e09c5[id=322314c0-fabe-3e9e-9ffd-7ee418ee8f10,name=Roberto_mc1,properties={},legacy=false] (/127.243.237.226:35347) lost connection: Disconnected
 [29Dec2024 01:38:19.329] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_mc1 is 322314c0-fabe-3e9e-9ffd-7ee418ee8f10
 [29Dec2024 01:38:19.557] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67b7a25c[id=322314c0-fabe-3e9e-9ffd-7ee418ee8f10,name=Roberto_mc1,properties={},legacy=false] (/127.243.237.226:56971) lost connection: Disconnected
+[29Dec2024 01:41:42.750] [Async Chat Thread - #6/INFO] [Console/]: <luchooos> mientra espero me quedo afk comiendio
+[29Dec2024 01:41:45.394] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> algo me pego?
+[29Dec2024 01:41:46.815] [Async Chat Thread - #5/INFO] [Console/]: <Dropped_by_Parca> xd
+[29Dec2024 01:41:50.296] [Async Chat Thread - #6/INFO] [Console/]: <luchooos> io
+[29Dec2024 01:41:56.023] [Async Chat Thread - #6/INFO] [Console/]: <Dropped_by_Parca> yo afk pa no gastar comida
+[29Dec2024 01:44:21.508] [User Authenticator #12/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_mc1 is 322314c0-fabe-3e9e-9ffd-7ee418ee8f10
+[29Dec2024 01:44:23.114] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roberto_mc1[/127.243.237.226:54367] logged in with entity id 1707 at (-1599.492848930439, 73.0, -826.38712679801)
+[29Dec2024 01:44:23.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_mc1 joined the game
+[29Dec2024 01:44:25.149] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Roberto_mc1 (18)
+[29Dec2024 01:44:25.149] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Roberto_mc1
+[29Dec2024 01:44:32.372] [Async Chat Thread - #8/INFO] [Console/]: <luchooos> oaaaaaaaaaaaa
+[29Dec2024 01:44:43.294] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> ola
+[29Dec2024 01:45:16.045] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> Roberto_mc1
+[29Dec2024 01:45:18.141] [Async Chat Thread - #7/INFO] [Console/]: <Dropped_by_Parca> donde nadas
+[29Dec2024 01:45:18.491] [Async Chat Thread - #8/INFO] [Console/]: <luchooos> asd
+[29Dec2024 01:45:19.904] [Async Chat Thread - #7/INFO] [Console/]: <Dropped_by_Parca> andas
+[29Dec2024 01:45:33.112] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> Roberto_mc1?
+[29Dec2024 01:45:44.878] [Async Chat Thread - #7/INFO] [Console/]: <luchooos> xd
+[29Dec2024 01:46:09.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp luchooos
+[29Dec2024 01:46:09.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to luchooos]
+[29Dec2024 01:46:12.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from Dropped_by_Parca: Location (-542.2048721313477, 140.5, -268.0128373503685) too far away from hit block BlockPos{x=-543, y=138, z=-269}.
+[29Dec2024 01:46:20.427] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /skin steve
+[29Dec2024 01:46:27.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /scale set 0.5
+[29Dec2024 01:46:31.285] [Async Chat Thread - #8/INFO] [Console/]: <luchooos> holaaa
+[29Dec2024 01:46:34.571] [Async Chat Thread - #7/INFO] [Console/]: <Dropped_by_Parca> Roberto_mc1
+[29Dec2024 01:46:42.026] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> no hay voice
+[29Dec2024 01:46:57.156] [Async Chat Thread - #7/INFO] [Console/]: <luchooos> xd
+[29Dec2024 01:47:12.853] [Async Chat Thread - #7/INFO] [Console/]: <Dropped_by_Parca> ok
+[29Dec2024 01:47:18.610] [Async Chat Thread - #8/INFO] [Console/]: <luchooos> no mis cosas?
+[29Dec2024 01:47:28.651] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> pero tu elige
+[29Dec2024 01:47:31.967] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> tus cosas o kit
+[29Dec2024 01:47:52.583] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> es full netherite full encantado con herramientas shulker bags y totems
+[29Dec2024 01:48:03.843] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:protection 4
+[29Dec2024 01:48:03.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Protection IV to Roberto_mc1's item]
+[29Dec2024 01:48:05.226] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:protection 4
+[29Dec2024 01:48:05.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Protection IV to Roberto_mc1's item]
+[29Dec2024 01:48:06.755] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:protection 4
+[29Dec2024 01:48:06.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Protection IV to Roberto_mc1's item]
+[29Dec2024 01:48:08.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:protection 4
+[29Dec2024 01:48:08.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Protection IV to Roberto_mc1's item]
+[29Dec2024 01:48:08.939] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> eso fue lo que me dijo mas o menos la nutria
+[29Dec2024 01:48:17.168] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:feather_falling 4
+[29Dec2024 01:48:17.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Feather Falling IV to Roberto_mc1's item]
+[29Dec2024 01:48:30.302] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> imagino que con caida de pluma 4 y sigilo veloz no?
+[29Dec2024 01:48:32.804] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:unbreaking 3
+[29Dec2024 01:48:32.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Unbreaking III to Roberto_mc1's item]
+[29Dec2024 01:48:35.916] [Async Chat Thread - #9/INFO] [Console/]: <luchooos> si me dan el kit me pueden dar minimo mis cosas del enderchest?
+[29Dec2024 01:48:42.628] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:mending
+[29Dec2024 01:48:42.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Mending to Roberto_mc1's item]
+[29Dec2024 01:48:46.112] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:unbreaking 3
+[29Dec2024 01:48:46.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Unbreaking III to Roberto_mc1's item]
+[29Dec2024 01:48:47.131] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:mending
+[29Dec2024 01:48:47.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Mending to Roberto_mc1's item]
+[29Dec2024 01:48:49.959] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:unbreaking 3
+[29Dec2024 01:48:49.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Unbreaking III to Roberto_mc1's item]
+[29Dec2024 01:48:51.032] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:mending
+[29Dec2024 01:48:51.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Mending to Roberto_mc1's item]
+[29Dec2024 01:48:53.455] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:unbreaking 3
+[29Dec2024 01:48:53.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Unbreaking III to Roberto_mc1's item]
+[29Dec2024 01:48:54.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:mending
+[29Dec2024 01:48:54.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Mending to Roberto_mc1's item]
+[29Dec2024 01:49:10.440] [Async Chat Thread - #8/INFO] [Console/]: <luchooos> si me dan el kit me pueden dar minimo mis cosas del enderchest?
+[29Dec2024 01:49:26.497] [Async Chat Thread - #9/INFO] [Console/]: <Dropped_by_Parca> yo quiero elegir el color de mi shulker bag
+[29Dec2024 01:49:27.880] [Async Chat Thread - #9/INFO] [Console/]: <Dropped_by_Parca> puedo?
+[29Dec2024 01:49:34.601] [Async Chat Thread - #9/INFO] [Console/]: <luchooos> bn ya fue elijo el kit
+[29Dec2024 01:49:42.109] [Async Chat Thread - #9/INFO] [Console/]: <Dropped_by_Parca> q colores hay
+[29Dec2024 01:49:45.727] [Async Chat Thread - #8/INFO] [Console/]: <Dropped_by_Parca> ponlos en tu mano
+[29Dec2024 01:49:48.979] [Async Chat Thread - #9/INFO] [Console/]: <Dropped_by_Parca> y yo elijo
+[29Dec2024 01:50:18.375] [Async Chat Thread - #9/INFO] [Console/]: <Dropped_by_Parca> nigga
+[29Dec2024 01:50:25.005] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dropped_by_Parca was kicked for floating too long!
+[29Dec2024 01:50:25.005] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dropped_by_Parca lost connection: Flying is not enabled on this server
+[29Dec2024 01:50:25.005] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dropped_by_Parca
+[29Dec2024 01:50:25.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dropped_by_Parca left the game.
+[29Dec2024 01:50:25.055] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 01:50:43.553] [Async Chat Thread - #8/INFO] [Console/]: <luchooos> mejor me quedo con el kit quiero ver que tiene xd
+[29Dec2024 01:51:01.205] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:sharpness 5
+[29Dec2024 01:51:01.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Sharpness V to Roberto_mc1's item]
+[29Dec2024 01:51:03.355] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:unbreaking 3
+[29Dec2024 01:51:03.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Unbreaking III to Roberto_mc1's item]
+[29Dec2024 01:51:05.443] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:mending
+[29Dec2024 01:51:05.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Mending to Roberto_mc1's item]
+[29Dec2024 01:51:18.531] [Async Chat Thread - #9/INFO] [Console/]: <luchooos> pero ponele a mis pantalones swif neak 3
+[29Dec2024 01:51:22.124] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:fire_aspect 2
+[29Dec2024 01:51:22.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Fire Aspect II to Roberto_mc1's item]
+[29Dec2024 01:51:27.084] [Async Chat Thread - #8/INFO] [Console/]: <luchooos> y soul speed 3 a mis botas
+[29Dec2024 01:51:32.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:looting 3
+[29Dec2024 01:51:32.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Looting III to Roberto_mc1's item]
