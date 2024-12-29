@@ -13565,3 +13565,4 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Dec2024 06:03:37.141] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
 [29Dec2024 06:03:37.142] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
 [29Dec2024 06:03:37.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[29Dec2024 06:54:24.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [Server] hay alguien?
