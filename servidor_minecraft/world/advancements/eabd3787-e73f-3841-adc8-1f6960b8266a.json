@@ -693,6 +693,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-29 05:39:26 +0000",
       "chicken": "2024-12-22 01:58:19 +0000",
       "beef": "2024-12-21 21:31:54 +0000",
       "porkchop": "2024-12-21 22:20:25 +0000",
@@ -2646,6 +2647,48 @@
   "minecraft:nether/netherite_armor": {
     "criteria": {
       "netherite_armor": "2024-12-29 05:28:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2024-12-29 05:43:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2024-12-29 05:39:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-29 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2024-12-29 05:36:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-29 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-29 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-29 05:36:05 +0000"
     },
     "done": true
   },

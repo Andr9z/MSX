@@ -81,11 +81,11 @@ data-version: 3|2|3465
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: TOTEM_OF_UNDYING
+        type: DEDSAFIO3_TOTEM_EON
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: DEDSAFIO3_TOTEM_EON
+        type: TOTEM_OF_UNDYING
     '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
@@ -146,11 +146,32 @@ data-version: 3|2|3465
         ==: org.bukkit.inventory.ItemStack
         v: 3465
         type: VOLTYMOD_DEDITAAZUL
-        amount: 20
+        amount: 19
       item2:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
         type: ENDER_CHEST
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: BLAZE_ROD
+        amount: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: OBSIDIAN
+        amount: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 3
   snapshots: []
 '14':
   uniqueId: ee250c6b-84e8-4271-97b5-6e09caeedfe1
