@@ -102,6 +102,13 @@
 			y: -11.0d
 		}
 		{
+			icon: {
+				Count: 1
+				id: "minecraft:netherite_helmet"
+				tag: {
+					Damage: 0
+				}
+			}
 			id: "3989C9F034DB0D95"
 			tasks: [{
 				id: "1EFE054D70E5C61C"
