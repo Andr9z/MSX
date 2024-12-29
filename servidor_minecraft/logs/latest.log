@@ -12173,3 +12173,11 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [29Dec2024 04:22:06.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 lost connection: Disconnected
 [29Dec2024 04:22:06.806] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_mc1
 [29Dec2024 04:22:06.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_mc1 left the game
+[29Dec2024 04:46:08.752] [User Authenticator #93/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[29Dec2024 04:46:18.549] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1cb0d039[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.114.29.149:43915) lost connection: Disconnected
+[29Dec2024 04:46:20.903] [User Authenticator #94/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[29Dec2024 04:46:21.199] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@73370a4c[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.114.29.149:42783) lost connection: Disconnected
+[29Dec2024 04:46:26.237] [User Authenticator #95/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[29Dec2024 04:46:42.900] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@58be44f8[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.114.29.149:45947) lost connection: Disconnected
+[29Dec2024 04:46:44.983] [User Authenticator #96/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[29Dec2024 04:47:05.299] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@74a23006[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.114.29.149:57911) lost connection: Disconnected
