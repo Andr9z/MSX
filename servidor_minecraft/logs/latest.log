@@ -800,3 +800,116 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Dec2024 01:51:27.084] [Async Chat Thread - #8/INFO] [Console/]: <luchooos> y soul speed 3 a mis botas
 [29Dec2024 01:51:32.929] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:looting 3
 [29Dec2024 01:51:32.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Looting III to Roberto_mc1's item]
+[29Dec2024 01:51:37.441] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:unbreaking 3
+[29Dec2024 01:51:37.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Unbreaking III to Roberto_mc1's item]
+[29Dec2024 01:51:39.324] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:mending
+[29Dec2024 01:51:39.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Mending to Roberto_mc1's item]
+[29Dec2024 01:51:50.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:efficiency 5
+[29Dec2024 01:51:50.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Efficiency V to Roberto_mc1's item]
+[29Dec2024 01:51:59.562] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:fortune 3
+[29Dec2024 01:51:59.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Fortune III to Roberto_mc1's item]
+[29Dec2024 01:52:01.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:efficiency 5
+[29Dec2024 01:52:01.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Efficiency V to Roberto_mc1's item]
+[29Dec2024 01:52:04.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:mending
+[29Dec2024 01:52:04.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Mending to Roberto_mc1's item]
+[29Dec2024 01:52:06.806] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:unbreaking 3
+[29Dec2024 01:52:06.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Unbreaking III to Roberto_mc1's item]
+[29Dec2024 01:52:40.480] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:unbreaking 3
+[29Dec2024 01:52:40.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Unbreaking III to Roberto_mc1's item]
+[29Dec2024 01:52:43.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:mending
+[29Dec2024 01:52:43.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Mending to Roberto_mc1's item]
+[29Dec2024 01:52:46.996] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:looting 3
+[29Dec2024 01:52:46.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Looting III to Roberto_mc1's item]
+[29Dec2024 01:52:50.904] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:fire_aspect 2
+[29Dec2024 01:52:50.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Fire Aspect II to Roberto_mc1's item]
+[29Dec2024 01:52:56.605] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:sharpness 5
+[29Dec2024 01:52:56.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Sharpness V to Roberto_mc1's item]
+[29Dec2024 01:53:28.216] [User Authenticator #13/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dropped_by_Parca is 496b7ed4-bb93-30a5-9369-e74975a04527
+[29Dec2024 01:53:29.811] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dropped_by_Parca[/127.194.189.13:57177] logged in with entity id 2700 at (-533.1722644653086, 142.00133597911216, -295.91551477665257)
+[29Dec2024 01:53:29.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dropped_by_Parca joined the game
+[29Dec2024 01:53:30.159] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dropped_by_Parca (18)
+[29Dec2024 01:53:30.159] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dropped_by_Parca
+[29Dec2024 01:53:46.069] [Async Chat Thread - #11/INFO] [Console/]: <Dropped_by_Parca> a
+[29Dec2024 01:53:47.356] [Async Chat Thread - #11/INFO] [Console/]: <Dropped_by_Parca> volvi
+[29Dec2024 01:53:49.376] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /enchant Roberto_mc1 minecraft:swift_sneak 3
+[29Dec2024 01:53:49.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Applied enchantment Swift Sneak III to Roberto_mc1's item]
+[29Dec2024 01:53:51.757] [Async Chat Thread - #11/INFO] [Console/]: <Dropped_by_Parca> tenia un ping de mierd
+[29Dec2024 01:53:55.802] [Async Chat Thread - #10/INFO] [Console/]: <luchooos> xd
+[29Dec2024 01:53:58.720] [Async Chat Thread - #10/INFO] [Console/]: <Dropped_by_Parca> quiero la shulker bag nigga
+[29Dec2024 01:54:29.447] [Async Chat Thread - #11/INFO] [Console/]: <Dropped_by_Parca> habla por el chat y ya
+[29Dec2024 01:54:32.410] [Async Chat Thread - #10/INFO] [Console/]: <Dropped_by_Parca> no te compliques
+[29Dec2024 01:54:33.050] [Async Chat Thread - #10/INFO] [Console/]: <Dropped_by_Parca> xd
+[29Dec2024 01:54:37.587] [Async Chat Thread - #10/INFO] [Console/]: <luchooos> rojo
+[29Dec2024 01:54:42.856] [Async Chat Thread - #11/INFO] [Console/]: <Dropped_by_Parca> solo somos 3 personas
+[29Dec2024 01:54:47.353] [Async Chat Thread - #11/INFO] [Console/]: <luchooos> eso
+[29Dec2024 01:55:01.721] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode survival
+[29Dec2024 01:55:01.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Survival Mode]
+[29Dec2024 01:55:11.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ftblibrary gamemode
+[29Dec2024 01:55:14.436] [Async Chat Thread - #11/INFO] [Console/]: <luchooos> espero que el kit llene mi inventario
+[29Dec2024 01:55:32.967] [Async Chat Thread - #11/INFO] [Console/]: <luchooos> asd
+[29Dec2024 01:55:41.761] [Async Chat Thread - #10/INFO] [Console/]: <Dropped_by_Parca> consideras que puedo tirar mis cosas a la mierda Roberto_mc1?
+[29Dec2024 01:55:49.758] [Async Chat Thread - #11/INFO] [Console/]: <Dropped_by_Parca> osea mi armor mi espada mi pico y mi hacha
+[29Dec2024 01:55:52.901] [Async Chat Thread - #11/INFO] [Console/]: <luchooos> creo q eso es lo mejor ajaja
+[29Dec2024 01:56:01.308] [Async Chat Thread - #11/INFO] [Console/]: <luchooos> si te van a dar el kit
+[29Dec2024 01:56:17.713] [User Authenticator #14/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player mine1430 is 0cb1bf89-a981-3808-989d-b64350a3bd1f
+[29Dec2024 01:56:19.054] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@131e5b1f[id=0cb1bf89-a981-3808-989d-b64350a3bd1f,name=mine1430,properties={},legacy=false] (/127.85.65.160:56365): You are banned from this server.
+[29Dec2024 01:56:19.055] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@131e5b1f[id=0cb1bf89-a981-3808-989d-b64350a3bd1f,name=mine1430,properties={},legacy=false] (/127.85.65.160:56365) lost connection: You are banned from this server.
+[29Dec2024 01:56:19.105] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 01:56:23.519] [Async Chat Thread - #10/INFO] [Console/]: <Dropped_by_Parca> OPA?
+[29Dec2024 01:56:57.831] [User Authenticator #15/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player mine1430 is 0cb1bf89-a981-3808-989d-b64350a3bd1f
+[29Dec2024 01:56:59.157] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@1014f14[id=0cb1bf89-a981-3808-989d-b64350a3bd1f,name=mine1430,properties={},legacy=false] (/127.85.65.160:56339): You are banned from this server.
+[29Dec2024 01:56:59.157] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1014f14[id=0cb1bf89-a981-3808-989d-b64350a3bd1f,name=mine1430,properties={},legacy=false] (/127.85.65.160:56339) lost connection: You are banned from this server.
+[29Dec2024 01:56:59.205] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 01:57:04.492] [Async Chat Thread - #11/INFO] [Console/]: <luchooos> tiraste la espada
+[29Dec2024 01:57:05.154] [Async Chat Thread - #11/INFO] [Console/]: <luchooos> xd
+[29Dec2024 01:57:18.539] [Async Chat Thread - #11/INFO] [Console/]: <Dropped_by_Parca> xd
+[29Dec2024 01:57:40.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Gave 8 [DEDita] to luchooos
+[29Dec2024 01:57:40.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Removed 1 item(s) from player luchooos
+[29Dec2024 01:57:43.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from luchooos: Location (-543.0, 139.6196826696396, -268.2393057346344) too far away from hit block BlockPos{x=-543, y=138, z=-269}.
+[29Dec2024 01:57:43.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from luchooos: Location (-543.0, 139.6196826696396, -268.2393057346344) too far away from hit block BlockPos{x=-543, y=138, z=-269}.
+[29Dec2024 01:57:53.492] [Async Chat Thread - #10/INFO] [Console/]: <luchooos> xd
+[29Dec2024 01:58:02.949] [Async Chat Thread - #11/INFO] [Console/]: <Dropped_by_Parca> pasate una enderbag
+[29Dec2024 01:58:07.358] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luchooos lost connection: Timed out
+[29Dec2024 01:58:07.358] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luchooos
+[29Dec2024 01:58:07.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos left the game.
+[29Dec2024 01:58:07.405] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 01:58:15.325] [User Authenticator #16/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player luchooos is 44c0f692-2bdc-313b-a961-084931d30571
+[29Dec2024 01:58:17.312] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luchooos[/127.70.195.151:36983] logged in with entity id 3094 at (-536.9828024766804, 142.0, -295.59839758941183)
+[29Dec2024 01:58:17.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos joined the game
+[29Dec2024 01:58:17.774] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luchooos (18)
+[29Dec2024 01:58:17.774] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luchooos
+[29Dec2024 01:58:21.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /invsee Dropped_by_Parca
+[29Dec2024 01:58:47.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luchooos lost connection: Timed out
+[29Dec2024 01:58:47.356] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luchooos
+[29Dec2024 01:58:47.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos left the game.
+[29Dec2024 01:58:47.407] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 01:59:22.611] [Async Chat Thread - #13/INFO] [Console/]: <Dropped_by_Parca> nutria?
+[29Dec2024 01:59:25.118] [User Authenticator #17/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player luchooos is 44c0f692-2bdc-313b-a961-084931d30571
+[29Dec2024 01:59:26.711] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luchooos[/127.70.195.151:46629] logged in with entity id 3191 at (-536.9828024766804, 142.0, -295.59839758941183)
+[29Dec2024 01:59:26.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos joined the game
+[29Dec2024 01:59:26.959] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luchooos (18)
+[29Dec2024 01:59:26.959] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luchooos
+[29Dec2024 01:59:55.784] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp Dropped_by_Parca
+[29Dec2024 01:59:55.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to Dropped_by_Parca]
+[29Dec2024 01:59:56.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luchooos lost connection: Timed out
+[29Dec2024 01:59:56.758] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luchooos
+[29Dec2024 01:59:56.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos left the game.
+[29Dec2024 01:59:56.825] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 02:00:14.676] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 02:00:14.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 02:00:17.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 02:00:17.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 02:00:30.022] [Async Chat Thread - #15/INFO] [Console/]: <Dropped_by_Parca> pasate aunque sea comida
+[29Dec2024 02:00:59.122] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /dedsafio3 cambios fuegoeterno
+[29Dec2024 02:01:04.058] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /dedsafio3 cambios fuegoeterno true
+[29Dec2024 02:01:05.668] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 02:01:05.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 02:01:06.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 02:01:06.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 02:01:20.957] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player luchooos is 44c0f692-2bdc-313b-a961-084931d30571
+[29Dec2024 02:01:22.867] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luchooos[/127.70.195.151:50865] logged in with entity id 3401 at (-536.9828024766804, 142.0, -295.59839758941183)
+[29Dec2024 02:01:22.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos joined the game
+[29Dec2024 02:01:23.135] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luchooos (18)
+[29Dec2024 02:01:23.136] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luchooos
+[29Dec2024 02:01:32.180] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta naranja @a title Ahora el fuego es eterno
+[29Dec2024 02:01:32.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja' to 3 entities

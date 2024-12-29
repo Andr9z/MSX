@@ -94,6 +94,21 @@ data-version: 3|2|3465
         v: 3465
         type: VOLTYMOD_DEDITAAZUL
         amount: 8
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_LIGHT_BLUE_SHULKER_BAG
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          internal: H4sIAAAAAAAA/+NiYOBi4PTMK0vNK8kvqmRmYAnOrEplYGCQ5mRg9SxJzS1mgAAAPB1lzSkAAAA=
+          forgeCaps: H4sIAAAAAAAA/+NiYOBiYAtILErNK2FmYAnOrEplYGCQ5mRg9SxJzS1mgAAAq+teyiYAAAA=
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 15
   snapshots: []
 '14':
   uniqueId: ee250c6b-84e8-4271-97b5-6e09caeedfe1
