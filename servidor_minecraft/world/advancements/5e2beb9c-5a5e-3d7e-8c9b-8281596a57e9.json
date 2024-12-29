@@ -1856,6 +1856,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_white_tulip": {
+    "criteria": {
+      "has_white_tulip": "2024-12-29 22:23:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_slab": {
     "criteria": {
       "has_planks": "2024-12-29 22:17:58 +0000"
