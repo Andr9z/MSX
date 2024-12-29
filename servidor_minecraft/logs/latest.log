@@ -6004,3 +6004,856 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [29Dec2024 23:22:59.869] [Async Chat Thread - #40/INFO] [Console/]: <luchooos> che loco
 [29Dec2024 23:23:02.123] [Async Chat Thread - #41/INFO] [Console/]: <bosteritomop> q
 [29Dec2024 23:23:28.929] [Async Chat Thread - #40/INFO] [Console/]: <luchooos> q opinas de la gente q no te habla x varias semanas y de repente te empieza a mandar videos en ig?
+[29Dec2024 23:23:37.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luchooos was kicked for floating too long!
+[29Dec2024 23:23:37.967] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luchooos lost connection: Flying is not enabled on this server
+[29Dec2024 23:23:37.967] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luchooos
+[29Dec2024 23:23:37.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos left the game.
+[29Dec2024 23:23:38.025] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 23:23:41.555] [Async Chat Thread - #41/INFO] [Console/]: <TGgohan_YT> xd
+[29Dec2024 23:23:43.463] [User Authenticator #18/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player luchooos is 44c0f692-2bdc-313b-a961-084931d30571
+[29Dec2024 23:23:45.267] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luchooos[/127.70.195.151:48115] logged in with entity id 71654 at (-477.8160018506628, 64.7531999805212, 631.7432611492986)
+[29Dec2024 23:23:45.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos joined the game
+[29Dec2024 23:23:46.616] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luchooos (18)
+[29Dec2024 23:23:46.617] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luchooos
+[29Dec2024 23:23:51.558] [Async Chat Thread - #40/INFO] [Console/]: <bosteritomop> qsy luchooos, videos de q?
+[29Dec2024 23:24:00.054] [Async Chat Thread - #40/INFO] [Console/]: <luchooos> reels
+[29Dec2024 23:24:02.333] [Async Chat Thread - #40/INFO] [Console/]: <luchooos> ni idea
+[29Dec2024 23:24:03.379] [Async Chat Thread - #41/INFO] [Console/]: <bosteritomop> ahh
+[29Dec2024 23:24:08.885] [Async Chat Thread - #40/INFO] [Console/]: <bosteritomop> qsy
+[29Dec2024 23:24:12.140] [Async Chat Thread - #41/INFO] [Console/]: <bosteritomop> es medio de boludo pero
+[29Dec2024 23:24:16.726] [Async Chat Thread - #40/INFO] [Console/]: <bosteritomop> no se
+[29Dec2024 23:24:21.849] [Async Chat Thread - #41/INFO] [Console/]: <luchooos> si lavd sq si xd
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:25:03.514] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:25:04.869] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:25:30.656] [Async Chat Thread - #43/INFO] [Console/]: <bosteritomop> bueno che
+[29Dec2024 23:25:32.886] [Async Chat Thread - #43/INFO] [Console/]: <bosteritomop> en un rato vuelvo
+[29Dec2024 23:25:36.208] [Async Chat Thread - #42/INFO] [Console/]: <luchooos> oka
+[29Dec2024 23:25:42.200] [Async Chat Thread - #43/INFO] [Console/]: <TGgohan_YT> okk
+[29Dec2024 23:25:43.696] [Async Chat Thread - #43/INFO] [Console/]: <bosteritomop> luchooos avisame por md o qsy si hacen algo una mini dungeon o algo
+[29Dec2024 23:25:51.206] [Async Chat Thread - #42/INFO] [Console/]: <luchooos> dale dale
+[29Dec2024 23:25:53.935] [Async Chat Thread - #43/INFO] [Console/]: <bosteritomop> bye
+[29Dec2024 23:25:54.811] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[29Dec2024 23:25:54.811] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[29Dec2024 23:25:54.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[29Dec2024 23:26:06.078] [Async Chat Thread - #42/INFO] [Console/]: <luchooos> gohan
+[29Dec2024 23:26:14.848] [Async Chat Thread - #42/INFO] [Console/]: <luchooos> boste me regalo un tridente :D
+[29Dec2024 23:26:23.885] [Async Chat Thread - #42/INFO] [Console/]: <luchooos> gohan?
+[29Dec2024 23:26:29.932] [Async Chat Thread - #43/INFO] [Console/]: <TGgohan_YT> Ala
+[29Dec2024 23:26:31.644] [Async Chat Thread - #43/INFO] [Console/]: <TGgohan_YT> Dime
+[29Dec2024 23:26:37.724] [Async Chat Thread - #42/INFO] [Console/]: <luchooos> boste me regalo un tridente :D
+[29Dec2024 23:26:41.976] [Async Chat Thread - #43/INFO] [Console/]: <TGgohan_YT> Ala
+[29Dec2024 23:26:46.966] [Async Chat Thread - #43/INFO] [Console/]: <TGgohan_YT> Bkno
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:27:24.364] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:27:25.211] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:27:37.437] [Async Chat Thread - #42/INFO] [Console/]: <luchooos> che tenes pizarra?
+[29Dec2024 23:27:41.964] [Async Chat Thread - #43/INFO] [Console/]: <TGgohan_YT> Siu
+[29Dec2024 23:27:46.877] [Async Chat Thread - #42/INFO] [Console/]: <luchooos> donde andas
+[29Dec2024 23:27:49.589] [Async Chat Thread - #43/INFO] [Console/]: <TGgohan_YT> 3 staks
+[29Dec2024 23:27:53.827] [Async Chat Thread - #42/INFO] [Console/]: <TGgohan_YT> Mina
+[29Dec2024 23:27:57.856] [Async Chat Thread - #42/INFO] [Console/]: <luchooos> oka
+[29Dec2024 23:30:10.233] [Async Chat Thread - #45/INFO] [Console/]: <TGgohan_YT> q me cuentan
+[29Dec2024 23:30:15.513] [Async Chat Thread - #45/INFO] [Console/]: <luchooos> deq
+[29Dec2024 23:30:23.222] [Async Chat Thread - #44/INFO] [Console/]: <TGgohan_YT> Lo q sea
+[29Dec2024 23:30:29.817] [Async Chat Thread - #45/INFO] [Console/]: <luchooos> pos nada
+[29Dec2024 23:30:33.090] [Async Chat Thread - #44/INFO] [Console/]: <luchooos> hoy me levante
+[29Dec2024 23:30:38.814] [Async Chat Thread - #45/INFO] [Console/]: <luchooos> me meti a la piletra
+[29Dec2024 23:30:41.094] [Async Chat Thread - #44/INFO] [Console/]: <luchooos> pileta
+[29Dec2024 23:30:42.110] [Async Chat Thread - #45/INFO] [Console/]: <luchooos> sali
+[29Dec2024 23:30:46.251] [Async Chat Thread - #44/INFO] [Console/]: <luchooos> me bañe
+[29Dec2024 23:30:48.721] [Async Chat Thread - #45/INFO] [Console/]: <luchooos> almorze
+[29Dec2024 23:30:54.106] [Async Chat Thread - #45/INFO] [Console/]: <luchooos> y dsp me puse a jugar aca
+[29Dec2024 23:30:57.568] [Async Chat Thread - #45/INFO] [Console/]: <luchooos> y vos?
+[29Dec2024 23:31:00.208] [Async Chat Thread - #44/INFO] [Console/]: <TGgohan_YT> Bkno
+[29Dec2024 23:31:19.505] [Async Chat Thread - #45/INFO] [Console/]: <TGgohan_YT> Ps me levante almorze, me organize me bañe
+[29Dec2024 23:31:24.181] [Async Chat Thread - #44/INFO] [Console/]: <TGgohan_YT> y a jugar
+[29Dec2024 23:31:27.569] [Async Chat Thread - #44/INFO] [Console/]: <luchooos> xd
+[29Dec2024 23:31:29.090] [Async Chat Thread - #45/INFO] [Console/]: <luchooos> god
+[29Dec2024 23:31:31.676] [User Authenticator #19/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player pocoquesoMB is 93210d55-8680-3f37-98e0-3f6fc07fd209
+[29Dec2024 23:31:33.268] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: pocoquesoMB[/127.196.173.212:52745] logged in with entity id 73770 at (-589.6385195709288, 143.0, -286.3039077597975)
+[29Dec2024 23:31:33.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: pocoquesoMB joined the game
+[29Dec2024 23:31:33.575] [Async Chat Thread - #44/INFO] [Console/]: <TGgohan_YT> Aroo
+[29Dec2024 23:31:34.876] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of pocoquesoMB (18)
+[29Dec2024 23:31:34.876] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to pocoquesoMB
+[29Dec2024 23:31:40.774] [User Authenticator #20/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player mine1430 is 0cb1bf89-a981-3808-989d-b64350a3bd1f
+[29Dec2024 23:31:42.120] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: mine1430[/127.85.65.160:47259] logged in with entity id 73869 at (529.6999999880791, 46.0, -677.4722738321722)
+[29Dec2024 23:31:42.128] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mine1430 joined the game
+[29Dec2024 23:31:42.726] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of mine1430 (18)
+[29Dec2024 23:31:42.727] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to mine1430
+[29Dec2024 23:31:48.052] [Async Chat Thread - #45/INFO] [Console/]: <luchooos> omg vino el tryhard
+[29Dec2024 23:31:50.584] [Async Chat Thread - #44/INFO] [Console/]: <luchooos> el pocoqueso
+[29Dec2024 23:32:00.493] [Async Chat Thread - #45/INFO] [Console/]: <pocoquesoMB> server muerto
+[29Dec2024 23:32:01.112] [Async Chat Thread - #44/INFO] [Console/]: <TGgohan_YT> Tenes queso
+[29Dec2024 23:32:09.587] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6141893863678, 143.0, -286.6278174817562) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:09.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6141893863678, 143.0, -286.6278174817562) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:10.026] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6375982165337, 143.0, -286.3290540575981) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:10.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6375982165337, 143.0, -286.3290540575981) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:10.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6375982165337, 143.0, -286.3290540575981) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:10.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6375982165337, 143.0, -286.3290540575981) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:10.097] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6375982165337, 143.0, -286.3290540575981) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:10.125] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6375982165337, 143.0, -286.3290540575981) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:10.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6383363306522, 143.0, -286.3091853260994) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:10.368] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6383363306522, 143.0, -286.3091853260994) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:10.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6383363306522, 143.0, -286.3091853260994) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:10.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6383363306522, 143.0, -286.3091853260994) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:11.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6341989934444, 143.0, -286.42598474025726) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:11.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6341989934444, 143.0, -286.42598474025726) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:11.378] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6341989934444, 143.0, -286.42598474025726) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:11.420] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6341989934444, 143.0, -286.42598474025726) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:11.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6310858130455, 143.0, -286.56143420934677) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:32:11.922] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from pocoquesoMB: Location (-589.6310858130455, 143.0, -286.56143420934677) too far away from hit block BlockPos{x=-590, y=141, z=-287}.
+[29Dec2024 23:33:21.488] [Async Chat Thread - #47/INFO] [Console/]: <pocoquesoMB> 1 de obsidiana x una dedita azul
+[29Dec2024 23:33:22.329] [Async Chat Thread - #46/INFO] [Console/]: <pocoquesoMB> waos
+[29Dec2024 23:35:20.190] [User Authenticator #21/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dropped_by_Parca is 496b7ed4-bb93-30a5-9369-e74975a04527
+[29Dec2024 23:35:21.780] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dropped_by_Parca[/127.194.189.13:41697] logged in with entity id 77544 at (-448.51552338987455, -59.0, 639.6999999880791)
+[29Dec2024 23:35:21.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dropped_by_Parca joined the game
+[29Dec2024 23:35:22.131] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dropped_by_Parca (18)
+[29Dec2024 23:35:22.131] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dropped_by_Parca
+[29Dec2024 23:35:29.530] [Async Chat Thread - #49/INFO] [Console/]: <luchooos> aasd
+[29Dec2024 23:35:33.759] [Async Chat Thread - #49/INFO] [Console/]: <Dropped_by_Parca> juan carlos gorvanchov
+[29Dec2024 23:35:41.241] [Async Chat Thread - #48/INFO] [Console/]: <Dropped_by_Parca> pocoquesoMB
+[29Dec2024 23:35:47.091] [Async Chat Thread - #49/INFO] [Console/]: <Dropped_by_Parca> te dije que ayer lo pude lootear?
+[29Dec2024 23:36:08.315] [User Authenticator #22/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[29Dec2024 23:36:09.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.114.29.149:56109] logged in with entity id 78060 at (-489.8306211153448, 64.0, 634.8586384321662)
+[29Dec2024 23:36:09.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[29Dec2024 23:36:10.081] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[29Dec2024 23:36:10.081] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[29Dec2024 23:36:13.487] [Async Chat Thread - #48/INFO] [Console/]: <bosteritomop> volvi
+[29Dec2024 23:36:17.950] [Async Chat Thread - #49/INFO] [Console/]: <Dropped_by_Parca> server prime?
+[29Dec2024 23:36:18.572] [Async Chat Thread - #48/INFO] [Console/]: <bosteritomop> pocoquesoMB hola david
+[29Dec2024 23:36:26.653] [Async Chat Thread - #49/INFO] [Console/]: <luchooos> ya vuevo
+[29Dec2024 23:36:28.075] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luchooos lost connection: Disconnected
+[29Dec2024 23:36:28.075] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client luchooos
+[29Dec2024 23:36:28.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos left the game
+[29Dec2024 23:36:32.222] [Async Chat Thread - #48/INFO] [Console/]: <pocoquesoMB> volvi
+[29Dec2024 23:36:33.452] [Async Chat Thread - #48/INFO] [Console/]: <pocoquesoMB> q paso
+[29Dec2024 23:36:36.756] [Async Chat Thread - #49/INFO] [Console/]: <bosteritomop> todo bien?
+[29Dec2024 23:36:37.369] [Async Chat Thread - #48/INFO] [Console/]: <Dropped_by_Parca> pocoquesoMB
+[29Dec2024 23:36:40.802] [Async Chat Thread - #49/INFO] [Console/]: <Dropped_by_Parca> como andas
+[29Dec2024 23:36:45.283] [Async Chat Thread - #48/INFO] [Console/]: <Dropped_by_Parca> traumado por ayer?
+[29Dec2024 23:36:51.429] [Async Chat Thread - #49/INFO] [Console/]: <bosteritomop> q paso ayer
+[29Dec2024 23:37:00.168] [Async Chat Thread - #48/INFO] [Console/]: <Dropped_by_Parca> ayer hubo un momento revill
+[29Dec2024 23:37:04.851] [Async Chat Thread - #48/INFO] [Console/]: <bosteritomop> ahh del /kill
+[29Dec2024 23:37:06.044] [Async Chat Thread - #48/INFO] [Console/]: <bosteritomop> no?
+[29Dec2024 23:37:09.169] [Async Chat Thread - #48/INFO] [Console/]: <Dropped_by_Parca> se
+[29Dec2024 23:37:17.282] [Async Chat Thread - #49/INFO] [Console/]: <Dropped_by_Parca> si no ibamos y looteabamos nos hacian /kill
+[29Dec2024 23:37:22.498] [Async Chat Thread - #48/INFO] [Console/]: <Dropped_by_Parca> pero no especificaba lootear
+[29Dec2024 23:37:24.453] [Async Chat Thread - #48/INFO] [Console/]: <Dropped_by_Parca> solo fuimos
+[29Dec2024 23:37:28.016] [Async Chat Thread - #48/INFO] [Console/]: <Dropped_by_Parca> y mine murio
+[29Dec2024 23:37:28.144] [Async Chat Thread - #49/INFO] [Console/]: <mine1430> duerman
+[29Dec2024 23:37:33.690] [Async Chat Thread - #48/INFO] [Console/]: <Dropped_by_Parca> y yo lootie despues de 1 hora
+[29Dec2024 23:37:40.167] [Async Chat Thread - #49/INFO] [Console/]: <Dropped_by_Parca> ya habia despawneado la mayoria
+[29Dec2024 23:38:48.441] [Async Chat Thread - #51/INFO] [Console/]: <bosteritomop> pocoquesoMB que hacemos?
+[29Dec2024 23:38:56.685] [Async Chat Thread - #50/INFO] [Console/]: <pocoquesoMB> yo estoy farmeando obsidiana
+[29Dec2024 23:39:05.852] [Async Chat Thread - #51/INFO] [Console/]: <bosteritomop> ah
+[29Dec2024 23:39:08.511] [Async Chat Thread - #51/INFO] [Console/]: <Dropped_by_Parca> pa q
+[29Dec2024 23:39:12.892] [Async Chat Thread - #50/INFO] [Console/]: <mine1430> ya exploraron el templo acuatico?
+[29Dec2024 23:39:22.291] [Async Chat Thread - #51/INFO] [Console/]: <bosteritomop> q templo acuatico
+[29Dec2024 23:39:23.319] [Async Chat Thread - #51/INFO] [Console/]: <Dropped_by_Parca> si
+[29Dec2024 23:39:26.827] [Async Chat Thread - #50/INFO] [Console/]: <Dropped_by_Parca> (no sabia que habia)
+[29Dec2024 23:39:37.492] [Async Chat Thread - #51/INFO] [Console/]: <mine1430> vengan para lootear
+[29Dec2024 23:39:46.872] [Async Chat Thread - #50/INFO] [Console/]: <pocoquesoMB> cual templo
+[29Dec2024 23:39:47.333] [Async Chat Thread - #51/INFO] [Console/]: <Dropped_by_Parca> son facile
+[29Dec2024 23:39:47.852] [Async Chat Thread - #51/INFO] [Console/]: <pocoquesoMB> :v
+[29Dec2024 23:40:08.483] [Async Chat Thread - #50/INFO] [Console/]: <bosteritomop> mori
+[29Dec2024 23:40:14.479] [Async Chat Thread - #51/INFO] [Console/]: <Dropped_by_Parca> yo en una serie custom donde los guardianes normalitos quitaban 4 coras era ez igual los templos
+[29Dec2024 23:40:22.200] [Async Chat Thread - #50/INFO] [Console/]: <pocoquesoMB> q ez boste
+[29Dec2024 23:40:26.879] [Async Chat Thread - #51/INFO] [Console/]: <Dropped_by_Parca> a
+[29Dec2024 23:40:28.500] [Async Chat Thread - #50/INFO] [Console/]: <Dropped_by_Parca> peto?
+[29Dec2024 23:40:34.273] [Async Chat Thread - #51/INFO] [Console/]: <Dropped_by_Parca> a no
+[29Dec2024 23:40:41.738] [Async Chat Thread - #51/INFO] [Console/]: <Dropped_by_Parca> ano
+[29Dec2024 23:40:59.836] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[29Dec2024 23:40:59.836] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:40:59.837] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:00.479] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:01.077] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:03.426] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:03.675] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:04.762] [Async Chat Thread - #50/INFO] [Console/]: <bosteritomop> amigo
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:04.927] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:05.430] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:05.431] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:06.777] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:06.935] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[29Dec2024 23:41:06.935] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:06.936] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:07.728] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:07.878] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:14.150] [Async Chat Thread - #51/INFO] [Console/]: <bosteritomop> estaba volviendo a base y encuentro mas de 100 ranas
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:18.640] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:19.131] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[29Dec2024 23:41:19.131] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:19.132] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mda834d3$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:115)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:732)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 23:41:19.880] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 23:42:08.871] [Async Chat Thread - #50/INFO] [Console/]: <bosteritomop> listo
+[29Dec2024 23:42:10.661] [User Authenticator #23/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player luchooos is 44c0f692-2bdc-313b-a961-084931d30571
+[29Dec2024 23:42:12.192] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: luchooos[/127.70.195.151:51997] logged in with entity id 82551 at (-480.69999998807907, 64.0, 613.3000000119209)
+[29Dec2024 23:42:12.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: luchooos joined the game
+[29Dec2024 23:42:12.259] [Async Chat Thread - #51/INFO] [Console/]: <Dropped_by_Parca> TGgohan_YT
+[29Dec2024 23:42:12.490] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of luchooos (18)
+[29Dec2024 23:42:12.490] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to luchooos
+[29Dec2024 23:42:13.173] [Async Chat Thread - #50/INFO] [Console/]: <bosteritomop> la mision de las ranas la tengo completada
+[29Dec2024 23:42:17.593] [Async Chat Thread - #50/INFO] [Console/]: <pocoquesoMB> boste veni al spawn
+[29Dec2024 23:42:19.865] [Async Chat Thread - #51/INFO] [Console/]: <TGgohan_YT> Dime
+[29Dec2024 23:42:24.558] [Async Chat Thread - #50/INFO] [Console/]: <bosteritomop> naa
+[29Dec2024 23:42:25.379] [Async Chat Thread - #50/INFO] [Console/]: <bosteritomop> para q
+[29Dec2024 23:42:36.451] [Async Chat Thread - #51/INFO] [Console/]: <bosteritomop> ??
+[29Dec2024 23:42:46.149] [Async Chat Thread - #50/INFO] [Console/]: <TGgohan_YT> Oigan voy pa la casa ya
+[29Dec2024 23:42:48.944] [Async Chat Thread - #51/INFO] [Console/]: <Dropped_by_Parca> bro
+[29Dec2024 23:42:49.639] [Async Chat Thread - #50/INFO] [Console/]: <luchooos> oka
+[29Dec2024 23:42:51.713] [Async Chat Thread - #50/INFO] [Console/]: <luchooos> q
+[29Dec2024 23:42:54.597] [Async Chat Thread - #50/INFO] [Console/]: <Dropped_by_Parca> que sida da el trading hall
+[29Dec2024 23:42:56.228] [Async Chat Thread - #51/INFO] [Console/]: <bosteritomop> pocoquesoMB
+[29Dec2024 23:42:59.617] [Async Chat Thread - #50/INFO] [Console/]: <Dropped_by_Parca> ya fuera de bromas
+[29Dec2024 23:43:03.227] [Async Chat Thread - #51/INFO] [Console/]: <pocoquesoMB> vos veni
+[29Dec2024 23:43:04.257] [Async Chat Thread - #51/INFO] [Console/]: <luchooos> esta feo
+[29Dec2024 23:43:06.635] [Async Chat Thread - #50/INFO] [Console/]: <luchooos> pero bueno
+[29Dec2024 23:43:06.748] [Async Chat Thread - #51/INFO] [Console/]: <bosteritomop> pff
+[29Dec2024 23:43:16.172] [Async Chat Thread - #50/INFO] [Console/]: <luchooos> el modelo del trading hall es malisimo igual
+[29Dec2024 23:43:19.944] [Async Chat Thread - #50/INFO] [Console/]: <luchooos> hize lo q pued
+[29Dec2024 23:45:49.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ mine1430 ha consumido un tótem!
+[29Dec2024 23:45:52.210] [Async Chat Thread - #53/INFO] [Console/]: <bosteritomop> ?
+[29Dec2024 23:46:04.162] [Async Chat Thread - #52/INFO] [Console/]: <bosteritomop> ya estoy pocoquesoMB
+[29Dec2024 23:46:33.951] [Async Chat Thread - #53/INFO] [Console/]: <pocoquesoMB> shhhh
+[29Dec2024 23:46:37.329] [Async Chat Thread - #52/INFO] [Console/]: <bosteritomop> y esto_
+[29Dec2024 23:46:38.259] [Async Chat Thread - #52/INFO] [Console/]: <bosteritomop> ?
+[29Dec2024 23:46:43.800] [Async Chat Thread - #52/INFO] [Console/]: <pocoquesoMB> farmeito
+[29Dec2024 23:46:46.457] [Async Chat Thread - #53/INFO] [Console/]: <bosteritomop> para
+[29Dec2024 23:46:48.794] [Async Chat Thread - #52/INFO] [Console/]: <bosteritomop> call
+[29Dec2024 23:47:05.590] [Async Chat Thread - #53/INFO] [Console/]: <pocoquesoMB> call priv
+[29Dec2024 23:47:19.684] [Async Chat Thread - #53/INFO] [Console/]: <bosteritomop> aja
+[29Dec2024 23:48:43.365] [Async Chat Thread - #55/INFO] [Console/]: <mine1430> las trampillas tambien hacen instakill?
+[29Dec2024 23:48:48.308] [Async Chat Thread - #54/INFO] [Console/]: <Dropped_by_Parca> creo
+[29Dec2024 23:48:51.653] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> no
+[29Dec2024 23:49:46.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ mine1430 ha consumido un tótem!
+[29Dec2024 23:49:46.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.muerte' to 6 entities
+[29Dec2024 23:49:46.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-591.4896624088287, 143.0, -289.4075996875763) too far away from hit block BlockPos{x=-592, y=141, z=-290}.
+[29Dec2024 23:49:46.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-591.4896624088287, 143.0, -289.4075996875763) too far away from hit block BlockPos{x=-592, y=141, z=-290}.
+[29Dec2024 23:49:48.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: mine1430 lost connection: Disconnected
+[29Dec2024 23:49:48.364] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client mine1430
+[29Dec2024 23:49:48.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: mine1430 left the game
+[29Dec2024 23:49:48.528] [Async Chat Thread - #54/INFO] [Console/]: <Dropped_by_Parca> gg
+[29Dec2024 23:49:49.272] [Async Chat Thread - #55/INFO] [Console/]: <luchooos> GG
+[29Dec2024 23:49:50.175] [Async Chat Thread - #54/INFO] [Console/]: <TGgohan_YT> F
+[29Dec2024 23:49:51.134] [Async Chat Thread - #54/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:51.656] [Async Chat Thread - #54/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:52.032] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:52.349] [Async Chat Thread - #54/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:52.373] [Async Chat Thread - #55/INFO] [Console/]: <pocoquesoMB> que manco
+[29Dec2024 23:49:52.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Banned mine1430: Has sido baneado por morir.
+[29Dec2024 23:49:52.678] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:52.994] [Async Chat Thread - #54/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:53.333] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:53.656] [Async Chat Thread - #54/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:53.999] [Async Chat Thread - #54/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:54.545] [Async Chat Thread - #54/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:54.887] [Async Chat Thread - #54/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:55.206] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:55.557] [Async Chat Thread - #54/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:55.691] [Async Chat Thread - #55/INFO] [Console/]: <Dropped_by_Parca> l
+[29Dec2024 23:49:55.878] [Async Chat Thread - #54/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:56.202] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:56.536] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> KKKKKK
+[29Dec2024 23:49:56.537] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Kicked for spamming
+[29Dec2024 23:49:56.538] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[29Dec2024 23:49:56.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[29Dec2024 23:49:56.565] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 23:49:57.041] [Async Chat Thread - #55/INFO] [Console/]: <Dropped_by_Parca> l
+[29Dec2024 23:49:57.374] [Async Chat Thread - #54/INFO] [Console/]: <Dropped_by_Parca> l
+[29Dec2024 23:49:57.675] [Async Chat Thread - #54/INFO] [Console/]: <Dropped_by_Parca> l
+[29Dec2024 23:49:57.988] [Async Chat Thread - #55/INFO] [Console/]: <Dropped_by_Parca> l
+[29Dec2024 23:49:58.319] [Async Chat Thread - #54/INFO] [Console/]: <Dropped_by_Parca> l
+[29Dec2024 23:49:58.686] [Async Chat Thread - #55/INFO] [Console/]: <Dropped_by_Parca> l
+[29Dec2024 23:49:59.269] [User Authenticator #24/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[29Dec2024 23:50:00.772] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.114.29.149:56025] logged in with entity id 88097 at (-591.463015834753, 143.0, -289.4149765322122)
+[29Dec2024 23:50:00.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[29Dec2024 23:50:01.015] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[29Dec2024 23:50:01.015] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[29Dec2024 23:50:04.445] [Async Chat Thread - #55/INFO] [Console/]: <TGgohan_YT> llegue
+[29Dec2024 23:50:53.922] [Async Chat Thread - #55/INFO] [Console/]: <Dropped_by_Parca> donde habra muerto
+[29Dec2024 23:51:23.740] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/36554, l='ServerLevel[DEDSAFIO 3 - By TheNeitorLoL]', x=-470.39, y=66.00, z=611.22] died, message: 'Villager was slain by luchooos'
+[29Dec2024 23:51:50.128] [Async Chat Thread - #56/INFO] [Console/]: <Dropped_by_Parca> qn es mine en disc?
+[29Dec2024 23:51:57.528] [Async Chat Thread - #55/INFO] [Console/]: <luchooos> MATEO
+[29Dec2024 23:51:58.356] [Async Chat Thread - #56/INFO] [Console/]: <bosteritomop> peto
+[29Dec2024 23:52:00.803] [Async Chat Thread - #56/INFO] [Console/]: <Dropped_by_Parca> a
+[29Dec2024 23:52:03.155] [Async Chat Thread - #55/INFO] [Console/]: <Dropped_by_Parca> no
+[29Dec2024 23:52:20.891] [Async Chat Thread - #56/INFO] [Console/]: <luchooos> el server parece q quiere petar
+[29Dec2024 23:52:25.304] [Async Chat Thread - #56/INFO] [Console/]: <Dropped_by_Parca> xd
+[29Dec2024 23:52:41.533] [Async Chat Thread - #56/INFO] [Console/]: <luchooos> #noalospetardos
+[29Dec2024 23:52:43.845] [Async Chat Thread - #56/INFO] [Console/]: <Dropped_by_Parca> murio en un templo marino
+[29Dec2024 23:52:45.659] [Async Chat Thread - #56/INFO] [Console/]: <pocoquesoMB> vendo corazones
+[29Dec2024 23:52:47.348] [Async Chat Thread - #56/INFO] [Console/]: <pocoquesoMB> :)
+[29Dec2024 23:53:03.514] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> #LosPerrosMeLaChupanAguanteLaPirotecnia
+[29Dec2024 23:53:07.691] [Async Chat Thread - #56/INFO] [Console/]: <bosteritomop> mentira
+[29Dec2024 23:53:15.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: luchooos moved too quickly! 0.7217187180772839,1.0013359791121417,-10.119789638072803
+[29Dec2024 23:53:26.034] [Async Chat Thread - #55/INFO] [Console/]: <luchooos> #AguanteElPorro
+[29Dec2024 23:53:28.532] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> q
+[29Dec2024 23:53:29.202] [Async Chat Thread - #56/INFO] [Console/]: <luchooos> dea
+[29Dec2024 23:53:29.812] [Async Chat Thread - #55/INFO] [Console/]: <bosteritomop> eso no
+[29Dec2024 23:53:33.265] [Async Chat Thread - #56/INFO] [Console/]: <pocoquesoMB> :)
+[29Dec2024 23:53:34.124] [Async Chat Thread - #55/INFO] [Console/]: <pocoquesoMB> vendo corazones
+[29Dec2024 23:53:34.677] [Async Chat Thread - #56/INFO] [Console/]: <pocoquesoMB> vendo corazones
+[29Dec2024 23:53:35.155] [Async Chat Thread - #55/INFO] [Console/]: <pocoquesoMB> vendo corazones
+[29Dec2024 23:53:35.690] [Async Chat Thread - #55/INFO] [Console/]: <pocoquesoMB> vendo corazones
+[29Dec2024 23:53:36.194] [Async Chat Thread - #56/INFO] [Console/]: <pocoquesoMB> vendo corazones
+[29Dec2024 23:53:36.656] [Async Chat Thread - #55/INFO] [Console/]: <pocoquesoMB> vendo corazones
+[29Dec2024 23:53:37.157] [Async Chat Thread - #56/INFO] [Console/]: <pocoquesoMB> vendo corazones
+[29Dec2024 23:53:37.651] [Async Chat Thread - #55/INFO] [Console/]: <pocoquesoMB> vendo corazones
+[29Dec2024 23:53:38.154] [Async Chat Thread - #56/INFO] [Console/]: <pocoquesoMB> vendo corazones
+[29Dec2024 23:53:38.655] [Async Chat Thread - #56/INFO] [Console/]: <pocoquesoMB> vendo corazones
+[29Dec2024 23:53:39.066] [Async Chat Thread - #56/INFO] [Console/]: <Dropped_by_Parca> #AguanteLaLudopatia
+[29Dec2024 23:53:39.585] [Async Chat Thread - #56/INFO] [Console/]: <Dropped_by_Parca> #AguanteLaLudopatia
+[29Dec2024 23:53:39.967] [Async Chat Thread - #56/INFO] [Console/]: <Dropped_by_Parca> #AguanteLaLudopatia
+[29Dec2024 23:53:40.240] [Async Chat Thread - #55/INFO] [Console/]: <Dropped_by_Parca> #AguanteLaLudopatia
+[29Dec2024 23:53:40.491] [Async Chat Thread - #56/INFO] [Console/]: <Dropped_by_Parca> #AguanteLaLudopatia
+[29Dec2024 23:53:40.761] [Async Chat Thread - #55/INFO] [Console/]: <Dropped_by_Parca> #AguanteLaLudopatia
+[29Dec2024 23:53:41.057] [Async Chat Thread - #56/INFO] [Console/]: <TGgohan_YT> A cuanto
+[29Dec2024 23:53:46.853] [Async Chat Thread - #56/INFO] [Console/]: <Dropped_by_Parca> #AguanteLaLudopatia
+[29Dec2024 23:53:47.052] [Async Chat Thread - #55/INFO] [Console/]: <TGgohan_YT> y cuantos
+[29Dec2024 23:53:48.774] [Async Chat Thread - #56/INFO] [Console/]: <pocoquesoMB> 5 mamadas por corazon
+[29Dec2024 23:53:50.740] [Async Chat Thread - #55/INFO] [Console/]: <luchooos> diooooooooooooooooooooooooooooooooooooooos
+[29Dec2024 23:53:51.974] [Async Chat Thread - #56/INFO] [Console/]: <Dropped_by_Parca> yo
+[29Dec2024 23:53:52.435] [Async Chat Thread - #55/INFO] [Console/]: <Dropped_by_Parca> yo
+[29Dec2024 23:53:52.738] [Async Chat Thread - #55/INFO] [Console/]: <Dropped_by_Parca> yo
+[29Dec2024 23:53:53.016] [Async Chat Thread - #56/INFO] [Console/]: <Dropped_by_Parca> yo
