@@ -679,3 +679,37 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Dec2024 01:30:13.043] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> q lindo nadar en lava
 [29Dec2024 01:30:18.976] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> es mi hobbiew
 [29Dec2024 01:31:16.008] [Async Chat Thread - #0/INFO] [Console/]: <Dropped_by_Parca> xd
+[29Dec2024 01:31:39.552] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> asd
+[29Dec2024 01:31:45.802] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> a
+[29Dec2024 01:32:03.488] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> que secretos abra aqui...
+[29Dec2024 01:32:07.616] [Async Chat Thread - #1/INFO] [Console/]: <Dropped_by_Parca> donde
+[29Dec2024 01:32:16.119] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> en toa la montaña
+[29Dec2024 01:32:40.140] [Async Chat Thread - #1/INFO] [Console/]: <Dropped_by_Parca> por aca hay algo
+[29Dec2024 01:32:45.800] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> donde
+[29Dec2024 01:32:47.668] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> arriba?
+[29Dec2024 01:32:51.151] [Async Chat Thread - #0/INFO] [Console/]: <Dropped_by_Parca> abajo
+[29Dec2024 01:32:54.268] [Async Chat Thread - #0/INFO] [Console/]: <Dropped_by_Parca> en las misiones
+[29Dec2024 01:33:06.831] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> donde reclamas?
+[29Dec2024 01:33:11.639] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> che dame comida
+[29Dec2024 01:33:13.393] [Async Chat Thread - #1/INFO] [Console/]: <luchooos> xd
+[29Dec2024 01:33:15.969] [Async Chat Thread - #0/INFO] [Console/]: <Dropped_by_Parca> yo recuerdo que habia algo aca
+[29Dec2024 01:33:33.753] [Async Chat Thread - #0/INFO] [Console/]: <Dropped_by_Parca> ahi ta tu comida
+[29Dec2024 01:33:34.880] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> subamos el agua
+[29Dec2024 01:34:03.478] [Async Chat Thread - #0/INFO] [Console/]: <luchooos> nd
+[29Dec2024 01:34:33.065] [Async Chat Thread - #2/INFO] [Console/]: <luchooos> escucho zombie
+[29Dec2024 01:34:33.667] [Async Chat Thread - #2/INFO] [Console/]: <luchooos> xd
+[29Dec2024 01:34:37.735] [Async Chat Thread - #0/INFO] [Console/]: <Dropped_by_Parca> yo tmb
+[29Dec2024 01:35:55.625] [Async Chat Thread - #4/INFO] [Console/]: <Dropped_by_Parca> maldito elias
+[29Dec2024 01:36:01.906] [Async Chat Thread - #3/INFO] [Console/]: <luchooos> xdddd
+[29Dec2024 01:37:09.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dropped_by_Parca lost connection: Disconnected
+[29Dec2024 01:37:09.957] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Dropped_by_Parca
+[29Dec2024 01:37:09.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dropped_by_Parca left the game
+[29Dec2024 01:37:17.389] [User Authenticator #9/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Dropped_by_Parca is 496b7ed4-bb93-30a5-9369-e74975a04527
+[29Dec2024 01:37:19.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Dropped_by_Parca[/127.194.189.13:41245] logged in with entity id 1252 at (-509.7775963796703, 146.0, -283.2567928317352)
+[29Dec2024 01:37:19.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dropped_by_Parca joined the game
+[29Dec2024 01:37:19.369] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Dropped_by_Parca (18)
+[29Dec2024 01:37:19.370] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Dropped_by_Parca
+[29Dec2024 01:38:04.712] [User Authenticator #10/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_mc1 is 322314c0-fabe-3e9e-9ffd-7ee418ee8f10
+[29Dec2024 01:38:04.958] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4c2e09c5[id=322314c0-fabe-3e9e-9ffd-7ee418ee8f10,name=Roberto_mc1,properties={},legacy=false] (/127.243.237.226:35347) lost connection: Disconnected
+[29Dec2024 01:38:19.329] [User Authenticator #11/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_mc1 is 322314c0-fabe-3e9e-9ffd-7ee418ee8f10
+[29Dec2024 01:38:19.557] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67b7a25c[id=322314c0-fabe-3e9e-9ffd-7ee418ee8f10,name=Roberto_mc1,properties={},legacy=false] (/127.243.237.226:56971) lost connection: Disconnected
