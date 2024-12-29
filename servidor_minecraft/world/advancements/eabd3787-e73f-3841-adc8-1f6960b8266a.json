@@ -2650,9 +2650,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/creeper_banner_pattern": {
+  "minecraft:adventure/salvage_sherd": {
     "criteria": {
-      "has_creeper_head": "2024-12-29 05:43:38 +0000"
+      "has_sherd": "2024-12-29 05:36:05 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2024-12-29 05:36:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-29 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-29 05:37:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2024-12-29 05:37:25 +0000"
     },
     "done": true
   },
@@ -2662,9 +2686,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "minecraft:recipes/misc/creeper_banner_pattern": {
     "criteria": {
-      "has_planks": "2024-12-29 05:49:44 +0000"
+      "has_creeper_head": "2024-12-29 05:43:38 +0000"
     },
     "done": true
   },
@@ -2674,9 +2698,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/magma_cream": {
+  "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
-      "has_blaze_powder": "2024-12-29 05:37:25 +0000"
+      "has_log": "2024-12-29 05:49:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-29 05:49:44 +0000"
     },
     "done": true
   },
@@ -2692,12 +2722,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2024-12-29 05:36:05 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-29 05:49:44 +0000"
@@ -2710,27 +2734,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/ender_eye": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-29 05:37:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_wood": {
-    "criteria": {
-      "has_log": "2024-12-29 05:49:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-29 05:49:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/fire_charge": {
-    "criteria": {
-      "has_blaze_powder": "2024-12-29 05:37:25 +0000"
     },
     "done": true
   },
@@ -2746,15 +2752,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2024-12-29 05:36:05 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-29 05:49:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2024-12-29 21:27:24 +0000"
     },
     "done": true
   },

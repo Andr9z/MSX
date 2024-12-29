@@ -2115,9 +2115,9 @@
     },
     "done": true
   },
-  "minecraft:end/levitate": {
+  "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
-      "levitated": "2024-12-29 03:45:05 +0000"
+      "has_echo_shard": "2024-12-29 03:28:30 +0000"
     },
     "done": true
   },
@@ -2127,9 +2127,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/tools/recovery_compass": {
+  "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
-      "has_echo_shard": "2024-12-29 03:28:30 +0000"
+      "has_brick": "2024-12-29 03:39:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2024-12-29 03:45:05 +0000"
     },
     "done": true
   },
@@ -2142,12 +2148,6 @@
   "minecraft:recipes/misc/green_dye": {
     "criteria": {
       "has_cactus": "2024-12-29 04:16:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2024-12-29 03:39:56 +0000"
     },
     "done": true
   },
