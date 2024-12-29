@@ -15332,3 +15332,277 @@ com.google.gson.JsonSyntaxException: Empty ingredient not allowed here
 [29Dec2024 02:52:17.293] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> no hay casino
 [29Dec2024 02:52:28.896] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> ya tenia la mision de las 10 raids los 10 wardens y los 50 ravagers
 [29Dec2024 02:52:30.430] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> nahhh
+[29Dec2024 02:52:47.332] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> pasa coords de ancient city
+[29Dec2024 02:52:53.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[29Dec2024 02:52:53.805] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[29Dec2024 02:52:53.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[29Dec2024 02:52:53.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[29Dec2024 02:52:54.315] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta verde @a title Un nuevo item a sido agregado en la montaña esta se ase llamar la enderbag el cual es un enderchest que no tienes que ponerlo en el piso para usarlo
+[29Dec2024 02:52:54.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 4 entities
+[29Dec2024 02:52:56.945] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 02:52:56.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 02:52:58.178] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 02:52:58.179] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 02:52:58.373] [Async Chat Thread - #28/INFO] [Console/]: <pocoquesoMB> no las tengo bld
+[29Dec2024 02:53:15.293] [Async Chat Thread - #28/INFO] [Console/]: <Dropped_by_Parca> precio?
+[29Dec2024 02:53:17.901] [Async Chat Thread - #28/INFO] [Console/]: <pocoquesoMB> las tenia en el mini mapa antes del backup
+[29Dec2024 02:53:25.793] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> nutria Roberto_mc1 llevame a la montaña xfavo
+[29Dec2024 02:53:37.642] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketEmptyEvent[37m
+[29Dec2024 02:53:37.642] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 02:53:37.642] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketEmptyEvent(CraftEventFactoryMixin.java:484)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketEmpty(BucketItemMixin.java:599)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.emptyContents(BucketItemMixin.java:133)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:89)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mdaea9f1$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 02:53:37.643] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [MythicMobs/]: [31m[EVENTS] Exception thrown whilst handling event: org.bukkit.event.player.PlayerBucketFillEvent[37m
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: java.lang.NoSuchMethodError: 'org.bukkit.entity.Entity org.bukkit.entity.Player.getTargetEntity(int, boolean)'
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.adapters.BukkitSkillTriggers.onBucketFill(BukkitSkillTriggers.java:154)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.Delegates$ConsumerToBiConsumerSecond.accept(Delegates.java:144)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at io.lumine.mythic.bukkit.utils.events.functional.single.EventListener.execute(EventListener.java:131)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:70)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:589)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:576)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.getPlayerBucketEvent(CraftEventFactoryMixin.java:512)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/arclight@1.20.1-1.0.5-1a8925b/org.bukkit.craftbukkit.v1_20_R1.event.CraftEventFactory.callPlayerBucketFillEvent(CraftEventFactoryMixin.java:488)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.handler$bga000$arclight$bucketFill(BucketItemMixin.java:548)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.BucketItem.m_7203_(BucketItemMixin.java:69)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.world.item.ItemStack.m_41682_(ItemStackMixin.java:275)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.level.ServerPlayerGameMode.m_6261_(ServerPlayerGameModeMixin.java:286)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.network.ServerGamePacketListenerImpl.m_5760_(ServerPlayNetHandlerMixin.java:2699)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:29)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.game.ServerboundUseItemPacket.m_5797_(CPlayerTryUseItemPacketMixin.java:7)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.network.protocol.PacketUtils.mdaea9f1$lambda$ensureRunningOnSameThread$0$0(PacketThreadUtilMixin.java:537)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.TickTask.run(TickTask.java:18)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:156)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:770)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_6367_(MinecraftServerMixin.java:161)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:130)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_129961_(MinecraftServerMixin.java:753)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_7245_(MinecraftServerMixin.java:747)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.util.thread.BlockableEventLoop.m_18701_(BlockableEventLoop.java:139)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130012_(MinecraftServerMixin.java:733)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_130011_(MinecraftServerMixin.java:2074)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at TRANSFORMER/minecraft@1.20.1/net.minecraft.server.MinecraftServer.m_206580_(MinecraftServerMixin.java:251)
+[29Dec2024 02:53:38.236] [Server thread/ERROR] [STDERR/]: 	at java.base/java.lang.Thread.run(Thread.java:840)
+[29Dec2024 02:54:00.974] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp pocoquesoMB
+[29Dec2024 02:54:00.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to pocoquesoMB]
+[29Dec2024 02:54:16.295] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> ida y vuelta
+[29Dec2024 02:54:25.082] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp pocoquesoMB -400 80 -300
+[29Dec2024 02:54:25.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported pocoquesoMB to -399.500000, 80.000000, -299.500000]
+[29Dec2024 02:54:25.472] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> q siempre me abandonan en la montaña
+[29Dec2024 02:54:27.176] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp pocoquesoMB
+[29Dec2024 02:54:27.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to pocoquesoMB]
+[29Dec2024 02:54:30.129] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 02:54:30.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 02:54:32.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 02:54:32.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 02:54:33.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 02:54:33.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 02:54:36.674] [Async Chat Thread - #29/INFO] [Console/]: <Dropped_by_Parca> yo tambien quiero nutria
+[29Dec2024 02:54:36.832] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 02:54:36.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 02:54:38.369] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 02:54:38.369] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 02:54:41.293] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> TE PAGUE UNA DEDITA MINIMO DEJAME ARRIBA EN LOS TRADES HDPT
+[29Dec2024 02:54:52.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 02:54:52.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 02:54:57.525] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp Dropped_by_Parca Roberto_mc1
+[29Dec2024 02:54:57.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Dropped_by_Parca to Roberto_mc1]
+[29Dec2024 02:55:01.903] [Async Chat Thread - #29/INFO] [Console/]: <Dropped_by_Parca> gracias
+[29Dec2024 02:55:06.543] [Async Chat Thread - #29/INFO] [Console/]: <Dropped_by_Parca> dejame arriba
+[29Dec2024 02:55:13.030] [Async Chat Thread - #29/INFO] [Console/]: <Dropped_by_Parca> entonces comete esta
+[29Dec2024 02:55:19.760] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /kill Dropped_by_Parca
+[29Dec2024 02:55:19.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Killed Dropped_by_Parca]
+[29Dec2024 02:55:27.433] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> toma
+[29Dec2024 02:55:44.974] [Async Chat Thread - #29/INFO] [Console/]: <mine1430> en que cords esra la montana
+[29Dec2024 02:55:47.177] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/animal/Sheep$2
+[29Dec2024 02:55:48.509] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> devuelvela
+[29Dec2024 02:55:55.835] [Async Chat Thread - #29/INFO] [Console/]: <pocoquesoMB> LA PUTA MADRE SE ME OLVIDO LO DE LAS PERLAS
+[29Dec2024 02:55:56.995] [Async Chat Thread - #29/INFO] [Console/]: <pocoquesoMB> pero
+[29Dec2024 02:56:04.013] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 02:56:04.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 02:56:04.598] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> este cambio lo metieron en el dia 15 no me rompas las bolas
+[29Dec2024 02:56:15.120] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> este dedsa dura una semana men
+[29Dec2024 02:56:25.127] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> mañana meten la nueva armor seguro
+[29Dec2024 02:56:26.447] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> dijeron q duraba 30 dias
+[29Dec2024 02:56:33.674] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> si bro
+[29Dec2024 02:56:36.626] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> pero xd
+[29Dec2024 02:56:48.262] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /dedsafio3 cambios dmgcactus true
+[29Dec2024 02:57:12.708] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> droped
+[29Dec2024 02:57:15.024] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> mala noticia
+[29Dec2024 02:57:16.563] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> dime
+[29Dec2024 02:57:23.573] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> para el ender bag te piden un ender chest
+[29Dec2024 02:57:28.363] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta naranja @a title Ahora los cactus te asen 97339683234643986589346534698 de daño cada vez que te pinchas
+[29Dec2024 02:57:28.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja' to 4 entities
+[29Dec2024 02:57:30.700] [Async Chat Thread - #27/INFO] [Console/]: <pocoquesoMB> como si 20 deditas fuera barato
+[29Dec2024 02:57:32.916] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> pero chupame las bolas
+[29Dec2024 02:57:49.843] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> era 999999999999999999
+[29Dec2024 02:57:53.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[29Dec2024 02:57:53.794] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[29Dec2024 02:57:53.813] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[29Dec2024 02:57:53.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[29Dec2024 02:58:22.446] [Async Chat Thread - #27/INFO] [Console/]: <Dropped_by_Parca> no 97339683234643986589346534698
+[29Dec2024 02:58:35.660] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> (copie exactamente cada numero)
+[29Dec2024 02:58:55.892] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> porque compraste eso?
+[29Dec2024 02:58:58.727] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> no sirve ahora
+[29Dec2024 02:59:03.482] [Worker-Main-53/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/levelgen/Beardifier$1
+[29Dec2024 02:59:05.953] [Worker-Main-83/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/WallBlock$1
+[29Dec2024 02:59:05.956] [Worker-Main-83/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/StairBlock$1
+[29Dec2024 02:59:21.854] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> son manzanas doradas al final
+[29Dec2024 02:59:29.838] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta verde @a title La nutria abeja les dejara 1 maquina de casino en todas sus bases porque el spawn esta tan protegido que las maquinas de el casino del spawn no se pueden utilizar
+[29Dec2024 02:59:29.838] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.verde' to 4 entities
+[29Dec2024 02:59:42.696] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> que sea de cambiar el precio
+[29Dec2024 02:59:51.949] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> vamo
+[29Dec2024 02:59:58.003] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> tp a mi base nutria
+[29Dec2024 03:00:00.215] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> y si quiero 5 maquinas q procede
+[29Dec2024 03:00:02.165] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 03:00:02.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 03:00:06.118] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> yo tambien quiero
+[29Dec2024 03:00:12.469] [Async Chat Thread - #30/INFO] [Console/]: <Roberto_mc1> 1 stack de deditas azules c:
+[29Dec2024 03:00:18.183] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> salaverga
+[29Dec2024 03:00:19.270] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> a pero comete esta
+[29Dec2024 03:00:22.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp Dropped_by_Parca
+[29Dec2024 03:00:22.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to Dropped_by_Parca]
+[29Dec2024 03:00:26.413] [Async Chat Thread - #31/INFO] [Console/]: <pocoquesoMB> 2 stacks de deditas naranjas y cerramos trato
+[29Dec2024 03:00:31.762] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> yo banco eso
+[29Dec2024 03:00:39.730] [Async Chat Thread - #30/INFO] [Console/]: <Roberto_mc1> 10 stacks
+[29Dec2024 03:00:43.545] [Async Chat Thread - #30/INFO] [Console/]: <Roberto_mc1> y pido poco
+[29Dec2024 03:00:43.874] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> -1800 200
+[29Dec2024 03:00:55.447] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> 10 stacks de naranjas son 2 stacks de azules hdpt
+[29Dec2024 03:00:56.364] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp pocoquesoMB -1800 80 200
+[29Dec2024 03:00:56.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported pocoquesoMB to -1799.500000, 80.000000, 200.500000]
+[29Dec2024 03:01:00.682] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> yo tambien
+[29Dec2024 03:01:01.985] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> en mi base tenes q poner 4 maquinas
+[29Dec2024 03:01:06.378] [Async Chat Thread - #31/INFO] [Console/]: <pocoquesoMB> xq somos team de 4
+[29Dec2024 03:01:09.191] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> -400 600
+[29Dec2024 03:01:21.475] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> -400 600
+[29Dec2024 03:01:28.611] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> na
+[29Dec2024 03:01:32.692] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> me andas cobrando dovle
+[29Dec2024 03:01:34.013] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> doble
+[29Dec2024 03:01:41.945] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> eu roberto yo tenia 26 varias de blaze
+[29Dec2024 03:01:42.197] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> a el solo una dedita de ida y vuelta
+[29Dec2024 03:01:44.263] [Worker-Main-53/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/Entity$1
+[29Dec2024 03:01:46.032] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> no te me hagas el piola
+[29Dec2024 03:01:49.003] [Worker-Main-88/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/level/block/RotatedPillarBlock$1
+[29Dec2024 03:01:51.871] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> no te me hagas el piola
+[29Dec2024 03:02:09.351] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> chupalo
+[29Dec2024 03:02:12.265] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> roberto
+[29Dec2024 03:02:16.590] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp pocoquesoMB
+[29Dec2024 03:02:16.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to pocoquesoMB]
+[29Dec2024 03:02:20.551] [Async Chat Thread - #31/INFO] [Console/]: <pocoquesoMB> te compro una maquina aparte de la gratis
+[29Dec2024 03:02:25.482] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> roberto como te dejaste escapar?
+[29Dec2024 03:02:26.079] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> xd
+[29Dec2024 03:02:28.805] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> digo
+[29Dec2024 03:02:30.103] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> estafar
+[29Dec2024 03:02:46.013] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> serian 3 maquinas
+[29Dec2024 03:02:52.438] [Async Chat Thread - #30/INFO] [Console/]: <mine1430> cuales son la cords d la maonatana
+[29Dec2024 03:02:53.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[29Dec2024 03:02:53.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[29Dec2024 03:02:53.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[29Dec2024 03:02:53.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[29Dec2024 03:03:00.390] [Async Chat Thread - #31/INFO] [Console/]: <Roberto_mc1> -400 80 -300
+[29Dec2024 03:03:07.681] [Async Chat Thread - #30/INFO] [Console/]: <mine1430> gracias crack
+[29Dec2024 03:03:11.659] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> Roberto_mc1
+[29Dec2024 03:03:19.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp Dropped_by_Parca
+[29Dec2024 03:03:19.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to Dropped_by_Parca]
+[29Dec2024 03:03:23.077] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> cuanto por dos maquinas aparte de la gratis?
+[29Dec2024 03:03:23.117] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/decoration/ArmorStand$1
+[29Dec2024 03:03:46.848] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> pero si eso era lo que pedias por 5
+[29Dec2024 03:03:47.897] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> wtf
+[29Dec2024 03:04:01.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp pocoquesoMB
+[29Dec2024 03:04:01.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to pocoquesoMB]
+[29Dec2024 03:04:04.609] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> roberto ponme mis maquinas
+[29Dec2024 03:04:11.098] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> le compraste pocoquesoMB?
+[29Dec2024 03:04:12.047] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> xd
+[29Dec2024 03:04:24.784] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> lptm
+[29Dec2024 03:04:30.603] [Async Chat Thread - #31/INFO] [Console/]: <pocoquesoMB> me das cuarzo?
+[29Dec2024 03:04:39.259] [Async Chat Thread - #31/INFO] [Console/]: <pocoquesoMB> mi cuarto era de puro cuarzo y se perdio todo
+[29Dec2024 03:04:40.838] [Async Chat Thread - #31/INFO] [Console/]: <Roberto_mc1> se gasto 1 stack de deditas azules x 2 maquinas
+[29Dec2024 03:04:44.696] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> de perdida dame 4 stacks
+[29Dec2024 03:05:17.416] [Async Chat Thread - #31/INFO] [Console/]: <pocoquesoMB> y me falta el aldeano de pociones maxeado
+[29Dec2024 03:05:25.608] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> a mi tambien pe
+[29Dec2024 03:05:36.034] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> y si me sale un corazon donde lo tradeo
+[29Dec2024 03:05:36.992] [Async Chat Thread - #31/INFO] [Console/]: <pocoquesoMB> :c
+[29Dec2024 03:05:57.499] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> mi maquina Roberto_mc1
+[29Dec2024 03:06:18.358] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> la grati
+[29Dec2024 03:06:20.011] [Async Chat Thread - #31/INFO] [Console/]: <Roberto_mc1> como se llamaba la vrg esta de las pociones
+[29Dec2024 03:06:27.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp Dropped_by_Parca
+[29Dec2024 03:06:27.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to Dropped_by_Parca]
+[29Dec2024 03:06:27.551] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> stand?W
+[29Dec2024 03:06:33.941] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp pocoquesoMB
+[29Dec2024 03:06:33.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to pocoquesoMB]
+[29Dec2024 03:06:36.213] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> brewind stan creo
+[29Dec2024 03:06:47.015] [Async Chat Thread - #31/INFO] [Console/]: <Roberto_mc1> tengo el juego en spañol xD
+[29Dec2024 03:06:49.109] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> y me das las 26 varas de blaze xfa?
+[29Dec2024 03:06:58.588] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> tu busca pociones y te saldra
+[29Dec2024 03:07:09.829] [Async Chat Thread - #31/INFO] [Console/]: <Roberto_mc1> te doy 28 pa q hagas la mrd esa
+[29Dec2024 03:07:26.818] [Server thread/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class net/minecraft/world/entity/vehicle/Boat$1
+[29Dec2024 03:07:41.487] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> maxealo
+[29Dec2024 03:07:46.921] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /dedsafio3 cambios dmgbuttons true
+[29Dec2024 03:07:53.810] [Async Chat Thread - #30/INFO] [Console/]: <Dropped_by_Parca> y si me sale una cabeza de creeper Roberto_mc1?
+[29Dec2024 03:07:53.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[29Dec2024 03:07:53.868] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[29Dec2024 03:07:53.887] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[29Dec2024 03:07:53.893] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo
+[29Dec2024 03:08:20.196] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ruleta naranja @a title Ahora los botones te asen 999999999999999999999999999999999999999999 de daño
+[29Dec2024 03:08:20.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Added tag 'anim.ruleta.naranja' to 4 entities
+[29Dec2024 03:08:39.254] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> asen
+[29Dec2024 03:08:53.226] [Async Chat Thread - #30/INFO] [Console/]: <Roberto_mc1> yo escribo asi no jodan unu
+[29Dec2024 03:08:59.754] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> maxea el aldeano
+[29Dec2024 03:09:12.992] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ftblibrary gamemode
+[29Dec2024 03:09:14.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ۞ Roberto_mc1 ha consumido un tótem!
+[29Dec2024 03:09:17.782] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> xd
+[29Dec2024 03:09:19.918] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /ftblibrary gamemode
+[29Dec2024 03:09:24.495] [Async Chat Thread - #30/INFO] [Console/]: <Roberto_mc1> ala mrd
+[29Dec2024 03:09:27.590] [Async Chat Thread - #30/INFO] [Console/]: <Roberto_mc1> si hacen insta
+[29Dec2024 03:09:28.158] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> maxea
+[29Dec2024 03:09:29.544] [Async Chat Thread - #30/INFO] [Console/]: <pocoquesoMB> mi
+[29Dec2024 03:09:30.968] [Async Chat Thread - #31/INFO] [Console/]: <pocoquesoMB> aldeano
+[29Dec2024 03:10:13.075] [Async Chat Thread - #31/INFO] [Console/]: <pocoquesoMB> dame la glowstone
+[29Dec2024 03:10:24.692] [Async Chat Thread - #30/INFO] [Console/]: <Roberto_mc1> ahi esta tu aldeano
+[29Dec2024 03:10:47.751] [Async Chat Thread - #31/INFO] [Console/]: <Roberto_mc1> los tradeos de los objetos q dan las maquinas estaran en montaña
+[29Dec2024 03:10:49.356] [Async Chat Thread - #31/INFO] [Console/]: <pocoquesoMB> las misiones las van a devovlver
+[29Dec2024 03:10:55.424] [Async Chat Thread - #31/INFO] [Console/]: <Roberto_mc1> no c:
+[29Dec2024 03:11:08.137] [Async Chat Thread - #31/INFO] [Console/]: <Dropped_by_Parca> pongan la poti de raid
+[29Dec2024 03:11:09.331] [Async Chat Thread - #31/INFO] [Console/]: <pocoquesoMB> tenia hechas ya la de las 10 5 y 1 raid la de 50 ravagers y la de 10 wardens no jodan
+[29Dec2024 03:11:20.682] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp -400 80 -300
+[29Dec2024 03:11:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to -399.500000, 80.000000, -299.500000]
+[29Dec2024 03:11:22.071] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 03:11:22.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 03:11:33.527] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Roberto_mc1: {disabled=true, disconnected=true, uuid=322314c0-fabe-3e9e-9ffd-7ee418ee8f10, name=Roberto_mc1, group=null}
+[29Dec2024 03:11:34.870] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 03:11:34.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 03:11:43.871] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 03:11:43.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 03:11:45.128] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 03:11:45.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 03:12:53.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save DEDSAFIO 3 - By TheNeitorLoL
+[29Dec2024 03:12:53.793] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete DEDSAFIO 3 - By TheNeitorLoL
+[29Dec2024 03:12:53.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save limbo
+[29Dec2024 03:12:53.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete limbo

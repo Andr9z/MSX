@@ -67,6 +67,34 @@ data-version: 3|2|3465
         ==: org.bukkit.inventory.ItemStack
         v: 3465
         type: DEDSAFIO3_ALMADE_GOLEM
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_CORAZON
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: VOLTYMOD_AMPLIFICADOR_VIDA
+        amount: 5
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: TOTEM_OF_UNDYING
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_TOTEM_EON
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: DEDSAFIO3_ENERGIA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3465
+        type: CREEPER_HEAD
   snapshots: []
 '13':
   uniqueId: 3a5bf3f8-ebc6-42f0-add1-4b7df697e9ac
