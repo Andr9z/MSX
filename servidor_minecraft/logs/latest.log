@@ -12195,3 +12195,23 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [29Dec2024 04:56:44.400] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@51d1a8f7[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.114.29.149:44219) lost connection: Connection closed - mismatched mod channel list
 [29Dec2024 05:00:13.171] [User Authenticator #101/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
 [29Dec2024 05:00:14.599] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@491817b6[id=eabd3787-e73f-3841-adc8-1f6960b8266a,name=bosteritomop,properties={},legacy=false] (/127.114.29.149:53447) lost connection: Disconnected
+[29Dec2024 05:07:54.869] [User Authenticator #102/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[29Dec2024 05:07:56.414] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.114.29.149:42285] logged in with entity id 79120 at (-1824.4716511699642, 73.0, 224.52772157054434)
+[29Dec2024 05:07:56.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[29Dec2024 05:08:06.430] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: You need Simple Voice Chat 1.20.1-2.5.26 to play on this server
+[29Dec2024 05:08:06.430] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[29Dec2024 05:08:06.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game.
+[29Dec2024 05:08:06.461] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Dec2024 05:10:15.484] [User Authenticator #103/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[29Dec2024 05:10:17.008] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.114.29.149:41891] logged in with entity id 79312 at (-1823.8943768112315, 73.0, 225.4451514474802)
+[29Dec2024 05:10:17.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[29Dec2024 05:10:17.869] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[29Dec2024 05:10:17.869] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[29Dec2024 05:13:22.805] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop lost connection: Disconnected
+[29Dec2024 05:13:22.805] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client bosteritomop
+[29Dec2024 05:13:22.812] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop left the game
+[29Dec2024 05:14:58.730] [User Authenticator #104/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player bosteritomop is eabd3787-e73f-3841-adc8-1f6960b8266a
+[29Dec2024 05:15:00.256] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: bosteritomop[/127.114.29.149:37135] logged in with entity id 79785 at (-1839.8042722701312, 73.0, 231.73163409665608)
+[29Dec2024 05:15:00.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
+[29Dec2024 05:15:01.182] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
+[29Dec2024 05:15:01.183] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
