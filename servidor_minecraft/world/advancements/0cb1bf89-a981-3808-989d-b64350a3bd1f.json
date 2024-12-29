@@ -14,6 +14,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2024-12-21 23:35:38 +0000",
+      "minecraft:deep_ocean": "2024-12-29 04:07:06 +0000",
       "minecraft:birch_forest": "2024-12-29 03:21:07 +0000",
       "minecraft:windswept_hills": "2024-12-29 03:21:12 +0000",
       "minecraft:bamboo_jungle": "2024-12-21 21:08:25 +0000",
@@ -363,6 +364,7 @@
       "mutton": "2024-12-21 23:34:49 +0000",
       "bread": "2024-12-21 21:16:53 +0000",
       "rotten_flesh": "2024-12-21 22:39:12 +0000",
+      "melon_slice": "2024-12-29 04:12:03 +0000",
       "cooked_chicken": "2024-12-21 22:18:45 +0000"
     },
     "done": false
@@ -1665,6 +1667,24 @@
   "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
     "criteria": {
       "has_smooth_quartz": "2024-12-29 03:27:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-29 04:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-29 04:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-29 04:11:54 +0000"
     },
     "done": true
   },
