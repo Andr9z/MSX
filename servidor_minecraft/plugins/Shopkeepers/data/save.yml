@@ -260,6 +260,6 @@ data-version: 3|2|3465
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3465
-        type: VOLTYMOD_DEDITANARANJA
-        amount: 3
+        type: VOLTYMOD_DEDITAAZUL
+        amount: 5
   snapshots: []
