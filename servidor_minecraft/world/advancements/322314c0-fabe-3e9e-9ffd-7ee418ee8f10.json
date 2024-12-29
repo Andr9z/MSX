@@ -1861,6 +1861,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-29 03:50:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-29 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-12-29 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-12-29 03:57:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-12-29 03:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-29 03:57:22 +0000"
@@ -1876,18 +1906,6 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-29 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2024-12-29 03:57:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2024-12-29 03:57:21 +0000"
     },
     "done": true
   },
@@ -1918,24 +1936,6 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2024-12-29 03:57:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2024-12-29 03:57:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/green_dye": {
-    "criteria": {
-      "has_cactus": "2024-12-29 03:50:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2024-12-29 03:57:21 +0000"
     },
     "done": true
   },

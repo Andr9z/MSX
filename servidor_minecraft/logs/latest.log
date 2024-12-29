@@ -12215,3 +12215,31 @@ Caused by: java.lang.IllegalAccessError: class org.bukkit.craftbukkit.v1_20_R1.e
 [29Dec2024 05:15:00.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bosteritomop joined the game
 [29Dec2024 05:15:01.182] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of bosteritomop (18)
 [29Dec2024 05:15:01.183] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to bosteritomop
+[29Dec2024 05:18:45.627] [User Authenticator #105/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_mc1 is 322314c0-fabe-3e9e-9ffd-7ee418ee8f10
+[29Dec2024 05:18:47.164] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roberto_mc1[/127.114.29.149:39377] logged in with entity id 80358 at (-474.99928154859464, 68.0, 663.6759405995087)
+[29Dec2024 05:18:47.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_mc1 joined the game
+[29Dec2024 05:18:48.325] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Roberto_mc1 (18)
+[29Dec2024 05:18:48.325] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Roberto_mc1
+[29Dec2024 05:18:57.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp bosteritomop
+[29Dec2024 05:18:57.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to bosteritomop]
+[29Dec2024 05:19:26.392] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode spectator
+[29Dec2024 05:19:26.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Spectator Mode]
+[29Dec2024 05:19:35.558] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /tp 0 100 0
+[29Dec2024 05:19:35.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Teleported Roberto_mc1 to 0.500000, 100.000000, 0.500000]
+[29Dec2024 05:19:38.571] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 issued server command: /gamemode creative
+[29Dec2024 05:19:38.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Roberto_mc1: Set own game mode to Creative Mode]
+[29Dec2024 05:19:47.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Roberto_mc1 lost connection: Disconnected
+[29Dec2024 05:19:47.114] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Roberto_mc1
+[29Dec2024 05:19:47.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_mc1 left the game
+[29Dec2024 05:21:18.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-1834.0, 74.50805425643921, 237.44299229979515) too far away from hit block BlockPos{x=-1834, y=73, z=237}.
+[29Dec2024 05:21:18.284] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Rejecting UseItemOnPacket from bosteritomop: Location (-1834.0, 74.50805425643921, 237.44299229979515) too far away from hit block BlockPos{x=-1834, y=73, z=237}.
+[29Dec2024 05:25:46.332] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin set drdonutt
+[29Dec2024 05:25:51.170] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin set asd
+[29Dec2024 05:26:40.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: bosteritomop issued server command: /skin set ItzRealMe
+[29Dec2024 05:27:05.493] [User Authenticator #106/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: UUID of player Roberto_mc1 is 322314c0-fabe-3e9e-9ffd-7ee418ee8f10
+[29Dec2024 05:27:06.961] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Roberto_mc1[/127.243.237.226:43617] logged in with entity id 81761 at (0.5, 88.01105264569428, 0.5)
+[29Dec2024 05:27:06.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Roberto_mc1 joined the game
+[29Dec2024 05:27:09.436] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Roberto_mc1 (18)
+[29Dec2024 05:27:09.436] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Roberto_mc1
+[29Dec2024 05:27:10.613] [Async Chat Thread - #74/INFO] [Console/]: <bosteritomop> al fiin
+[29Dec2024 05:27:19.975] [Async Chat Thread - #74/INFO] [Console/]: <Roberto_mc1> asd
