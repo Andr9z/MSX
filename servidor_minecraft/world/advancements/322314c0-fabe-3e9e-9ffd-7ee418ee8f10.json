@@ -2056,7 +2056,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2024-12-29 05:39:55 +0000"
+      "cooked_porkchop": "2024-12-29 05:39:55 +0000",
+      "golden_apple": "2024-12-30 02:23:23 +0000"
     },
     "done": false
   },
@@ -2119,6 +2120,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-30 02:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-12-30 02:29:10 +0000"
     },
     "done": true
   },
