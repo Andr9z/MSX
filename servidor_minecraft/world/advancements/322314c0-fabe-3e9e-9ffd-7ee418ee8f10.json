@@ -2102,5 +2102,25 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-30 02:03:00 +0000",
+      "minecraft:nether_wastes": "2024-12-30 02:03:30 +0000",
+      "minecraft:basalt_deltas": "2024-12-30 02:02:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-30 02:02:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-30 02:02:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

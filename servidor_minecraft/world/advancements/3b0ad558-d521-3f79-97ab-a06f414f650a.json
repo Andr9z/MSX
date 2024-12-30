@@ -1063,7 +1063,9 @@
       "cooked_beef": "2024-12-21 22:50:44 +0000",
       "beef": "2024-12-21 22:32:49 +0000",
       "porkchop": "2024-12-21 22:34:38 +0000",
+      "apple": "2024-12-30 02:00:02 +0000",
       "mutton": "2024-12-21 22:30:07 +0000",
+      "golden_apple": "2024-12-30 02:10:25 +0000",
       "salmon": "2024-12-22 01:48:24 +0000",
       "melon_slice": "2024-12-22 19:15:10 +0000",
       "cooked_chicken": "2024-12-21 21:25:06 +0000"
@@ -1905,6 +1907,30 @@
   "minecraft:recipes/building_blocks/dye_light_gray_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-22 20:35:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-30 01:59:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2024-12-30 02:01:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2024-12-30 02:01:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-30 01:59:10 +0000"
     },
     "done": true
   },
